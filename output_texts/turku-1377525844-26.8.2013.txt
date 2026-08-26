@@ -1,0 +1,723 @@
+[446.3s - 446.4s] UNKNOWN_SPEAKER: Kiitos.
+[470.0s - 479.4s] SPEAKER_05: Jatkuu vielä, ja nyt aloitetaan valtuustotyöskentely, ja valtuuston kokous alkaa.
+[480.1s - 481.9s] SPEAKER_05: Suoritetaan nimenhuuto.
+[484.0s - 492.1s] SPEAKER_05: Nimenhuuto tapahtuu siten, että ruutuun tulee tämä istumenjäristys, ja sieltä painetaan läsnöolo-nappia.
+[493.7s - 494.8s] SPEAKER_05: Nimeä huuto alkaa.
+[498.1s - 521.5s] SPEAKER_15: Se tulee itsellesi sieltä sitten.
+[523.2s - 546.6s] SPEAKER_05: Enikä nyt vielä poissa noin paljon.
+[557.3s - 560.6s] SPEAKER_05: Painokset sitä, että olisi laillisuus ja päätösvaltaisuudessa.
+[560.6s - 562.3s] SPEAKER_05: Hyvä.
+[562.4s - 584.2s] SPEAKER_05: Eeva Johanna.
+[585.7s - 596.3s] SPEAKER_05: Massinen puuttuukin, Ruusele puuttuu, Laihinen puuttuu.
+[596.5s - 603.3s] SPEAKER_05: Takkula puuttuu, Assitsi on paikalla.
+[603.3s - 613.0s] SPEAKER_05: Vierimaa, Paija.
+[613.1s - 615.2s] SPEAKER_05: Nyt näyttää, että muutama puuttuu, joka vaikka on paikalla.
+[618.5s - 620.3s] SPEAKER_05: Ja heitä ollaan nyt auttamassa siellä.
+[620.3s - 636.0s] SPEAKER_05: Tehdäänkö niihin, että pyydän keskeytön.
+[662.2s - 668.2s] SPEAKER_05: No niin, arvoisat valtuutettu, tehdään niin, että nimenhuuto loppuu nyt.
+[668.9s - 671.9s] SPEAKER_05: Ja mä huudan täältä ne henkilöt, jotka on paikalla, niin nimeltään.
+[671.9s - 674.7s] SPEAKER_05: No mut me nyt pois täältä taas näkyvistä.
+[681.7s - 683.7s] SPEAKER_05: Ja ensinnäkin Eluranta on paikalla.
+[683.7s - 685.6s] SPEAKER_05: Sitten
+[686.0s - 699.8s] SPEAKER_05: Takkula on paikalla, sitten Perho on paikalla, Vierimaa on paikalla, Kanerva on paikalla, Harjani on paikalla.
+[700.7s - 706.3s] SPEAKER_05: Onko nyt joku muu, joka äsken pannut nappia eikä äsken sanottu nimeä?
+[709.7s - 712.0s] SPEAKER_05: Eli paikalla pitäisi nyt sitten olla
+[721.5s - 728.3s] SPEAKER_05: Eli paikalla on nyt 58 valtuutettua, ja seuraavat valtuutetut ovat ilmoittaneet testensä.
+[728.4s - 734.6s] SPEAKER_05: Valtuutettu Aimo Massinen on ilmoittaneet testensä pyydän varavaltu Jukka Mikkalo ottavan paikkansa valtuustossa.
+[734.6s - 736.8s] SPEAKER_05: Tervetuloa.
+[737.5s - 744.2s] SPEAKER_05: Sitten valtuutettu Jorma Helst on ilmoittaneet testensä ja pyydän varavaltu Timo Nurmio ottavan paikkansa valtuustossa.
+[746.3s - 746.9s] SPEAKER_05: Tervetuloa.
+[748.5s - 751.1s] SPEAKER_05: Sitten valtuutettu Jarmo Ruuselööfö on ilmoittanut testensä.
+[751.1s - 755.8s] SPEAKER_05: Pyydän varavaltuutettu Vuokko Puljärvi-Seilan ottavan paikkansa valtuustossa.
+[757.9s - 758.5s] SPEAKER_05: Tervetuloa.
+[760.5s - 766.6s] SPEAKER_05: Valtuutettu Mikaela Sundqvist on ilmoittanut testensä ja pyydän varavaltuutettu Pirstolin Anitaa ottavan paikkansa valtuustossa.
+[767.4s - 768.0s] SPEAKER_05: Tervetuloa.
+[768.0s - 776.3s] SPEAKER_05: Sitten valtuutettu Niina Ratilainen on ilmoittanut testensä ja pyydän varavaltuutettu Heikki Hölttä ottavan paikkansa valtuustossa.
+[776.3s - 777.2s] SPEAKER_05: Tervetuloa.
+[779.4s - 784.1s] SPEAKER_05: Sitten valtuutettu Petteri Orpo on ilmoittanut testensä ja pyydän varavaltumalla.
+[784.8s - 787.1s] SPEAKER_05: Rannikko Laine ottamaan paikkansa valtuustossa.
+[787.3s - 787.9s] SPEAKER_05: Tervetuloa.
+[789.8s - 796.3s] SPEAKER_05: Sitten valtuutettu Annikka Saarikko on ilmoittanut testensä ja pyydän varavaltuutettu Sakari Hihnälä ottamaan paikkansa valtuustossa.
+[796.6s - 797.2s] SPEAKER_05: Tervetuloa.
+[799.1s - 805.7s] SPEAKER_05: Valtuutettu Laihinen, Timo on ilmoittanut testensä ja pyydän varavaltuutettu Jari Laine ottamaan paikkansa valtuustossa.
+[805.9s - 806.5s] SPEAKER_05: Tervetuloa.
+[807.9s - 810.5s] SPEAKER_05: Ja nyt ilmeisesti pitäisi olla sitten...
+[811.2s - 813.1s] SPEAKER_05: Nyt on kaikki paikalla ja 67 on paikalla.
+[813.2s - 820.1s] SPEAKER_05: Sitten mennään kohtaan kaksi pöytäkirjan tarkastusia.
+[820.3s - 824.6s] SPEAKER_05: Vuorossa ovat Hartiala Hassan valittainen.
+[824.7s - 825.2s] SPEAKER_05: Valitaan.
+[827.6s - 830.2s] SPEAKER_05: Sitten mennään kohtaan kolme.
+[834.1s - 836.1s] SPEAKER_05: Ja tässä onkin sitten jo nimetkin.
+[837.8s - 838.8s] SPEAKER_05: Keskustelu alkaa.
+[838.8s - 841.5s] SPEAKER_05: Päättyy.
+[842.1s - 844.5s] SPEAKER_05: Asia numero 3 esitetyllä tavalla.
+[846.2s - 847.4s] SPEAKER_05: Asia numero 4.
+[847.4s - 850.5s] SPEAKER_05: Keskustelu alkaa.
+[850.5s - 853.9s] SPEAKER_05: Päättyy.
+[854.8s - 856.5s] SPEAKER_05: Esitetyllä tavalla.
+[856.6s - 864.1s] SPEAKER_05: Sen jälkeen mennään asia numero 5, liikuntatilojen vuokraaminen.
+[864.1s - 865.7s] SPEAKER_05: Keskustelu alkaa.
+[867.6s - 869.2s] SPEAKER_05: Valtuutettu Rinne Perjo.
+[881.8s - 885.5s] SPEAKER_17: Meistä monet omistaa kiinteistön, eikö totta.
+[886.5s - 888.0s] SPEAKER_17: Minäkin omistan sellaisen.
+[889.8s - 893.9s] SPEAKER_17: Olen 30 vuoden aikana joutunut tekemään siihen useanlaisia remontteja.
+[894.7s - 901.9s] SPEAKER_17: Sen takia, että me haluamme, että se kiinteistö on siinä tarkoituksessa, mihin me sen ostimme, eli meidän perheen asunnoksi.
+[902.6s - 911.0s] SPEAKER_17: Olemme joutuneet tekemään kattoremonttia, räystäitä, pesutiloja, uudistuksia, ilmanvaihtoja, monennäköisiä remontteja, kaikki ne on maksaneet.
+[911.0s - 917.9s] SPEAKER_17: Mutta me tiedämme, että meidän kiinteistön arvo on koko ajan pysynyt suurin piirtein samana, jopa ehkä vähän kohonnutkin.
+[919.8s - 937.2s] SPEAKER_17: Nyt tässä me olemme tilanteessa, jossa kiinteistön omistaja ei ole huolehtinut näistä kansalaisvelvollisuuksista, mitkä pitäisi aina olla, kun rakennamme kiinteistön, sen tulee säilyttää se arvo sillä paikalla ja siinä tarkoituksessa, mihin se kiinteistö on aikoinaan otettu.
+[937.2s - 943.8s] SPEAKER_17: Tässä se on ollut teollisuuskiinteistö, mutta aika pian Turun kaupunki alkoi vuokrata tiloja liikuntatoimelle.
+[943.8s - 948.9s] SPEAKER_17: Tämän kiinteistön omistaja otti vuokrat,
+[949.5s - 964.9s] SPEAKER_17: mutta ei huolehtinut kiinteistön toiminnasta tai siitä tilasta ja tehnyt niitä remontteja, mitkä olisi kuulunut jokaisen kiinteistoon, mistä ja huolehtia, että siellä voi toimia se toimi, johonka se tila on tarkoitettu.
+[966.3s - 982.9s] SPEAKER_17: Tietysti Turun kaupunki vuokrajana myöskin on laiminlyönyt tehtäviä ja ne eikä ole käynyt tarkistamassa niitä tiloja siten, että ne on päässyt tällaisen kuntoon, että ne on työturvallisuuslain vastaisia, siellä on ilmanvaihto huono, siellä ei pystytä enää tekemään sitä toimintaa mihinkä Turun kaupunkisen aikoina on vuokrassa.
+[984.0s - 990.4s] SPEAKER_01: No minulla ei ole mitään mahdollisuutta saada oman kiinteistöni korjaamiseen rahaa, mutta kun pankista lainaa.
+[991.2s - 993.4s] SPEAKER_17: Mutta mitenpä tämä kiinteistönomistaja tekee?
+[994.1s - 996.2s] SPEAKER_17: Tulee pyytämään Turun kaupungilta sitä rahaa.
+[997.0s - 999.1s] SPEAKER_17: Maksakaa, vuokran antaja maksaa.
+[1001.2s - 1011.1s] SPEAKER_17: No näin nyt on tässä paperissa tehty ja se viedään niin kuin viimeiseen tappiin niin, että sanotaan meille valtuutetuille, että nyt se on tehtävä, muuten nämä seurat jää vaille tiloja.
+[1013.2s - 1032.9s] SPEAKER_17: Miksei tätä ole tuotu meille viisi vuotta sitten jo asiana ja mietitty ja tehty korjausremontointiaikataulu ja saatu niitä kustannuksia siten pienemmäksi, eikä tällaisena pottina yhtäkkiä tehdä valtavan suuri, jolloin se varmasti vaikuttaa myös niiden seurojen toimintaan ja liikunnan harjoittamiseen siellä?
+[1032.9s - 1038.2s] SPEAKER_17: Seuraavana asiana otan esille tämän esittelyn, että kesäkuussa asia tulee esille.
+[1039.0s - 1045.2s] SPEAKER_17: ilman minkään näköisiä tarkempia selvityksiä siitä, että onko jokin muu mahdollisuus.
+[1045.2s - 1046.9s] SPEAKER_17: Mikä vaihtoehto Turulla on?
+[1047.2s - 1048.3s] SPEAKER_17: Ei ole vaihtoehtoja.
+[1048.9s - 1052.5s] SPEAKER_17: Tämä on vain ainut vaihtoehto ja näin tulee tehdä.
+[1052.7s - 1062.1s] SPEAKER_17: Eikä minkäänlaisia esittelyjä siitä, vaikka seuraparlamentti on lausunut, että he eivät hyväksy sitä, että kaupungin avustukset seuroille pienenevät,
+[1063.0s - 1077.5s] SPEAKER_17: niin siitä huolimatta meille ei tuoda selvitystä siitä, minkälaisia seuroja siellä toimii, kuinka moni turkulainen seura, heikoissa varoissa oleva seura nyt joutuu lopettamaan toimintansa sen takia, kun Turun kaupungin avustus pienenee.
+[1078.9s - 1085.3s] SPEAKER_17: Ei ole selvitystä siitä, kuinka moni seura näistä, jotka siellä nyt on, pystyy maksamaan vuokransattan korotuksen jälkeen.
+[1085.8s - 1098.4s] SPEAKER_17: Tässä on hyvin pitkä vaara siinä, että Turun kaupunki joutuu tämän maksajaksi kokonaisuudessa, että seuroja ei saadakaan tähän mukaan, niin kuin tässä nyt oletusarvona tehdään, että seurat maksaa ja avustuksista otetaan.
+[1098.6s - 1108.2s] SPEAKER_17: Että sitten yhtäkkiä ollaankin siinä tilanteessa, että miten tässä nyt näin kävi, että me joudumme sitten tämän maksajaksi.
+[1108.2s - 1113.2s] SPEAKER_17: Sitten kun meillä on Turun kaupungissa myös tieto siitä, että nämä remontit ei koskaan pidä kutisa.
+[1114.5s - 1120.8s] SPEAKER_17: Ja meillä on tälläkin hetkellä sellaisia yksityiseltä vuokrattuja tiloja, joiden remontit on mennyt paukkuunut yli oikein tosissaan.
+[1121.6s - 1126.3s] SPEAKER_17: Niin tässäkin se vaara tietysti on, kun on kysymyksessä vanha kiinteistö, ja se on todella huonossa kunnossa.
+[1126.8s - 1129.1s] SPEAKER_17: Niin pystytäänkö itse asiassa tällä rahalla sitä tekemään?
+[1129.2s - 1135.2s] SPEAKER_17: Mutta kun alkuun päästään, niin helppo on lypsää sitten kaupunkia maksaa ja veronmaksajat ja turkulaiset.
+[1135.2s - 1136.5s] SPEAKER_17: Näinhän siinä mennään.
+[1138.0s - 1150.5s] SPEAKER_17: Mutta toinen selvitys, mikä tästä puuttuu, on se, että onko tosiasiassa Turun kaupungilla sellaisia tiloja, joita olisi voitu vastaa vain tarkoituksien käyttää, jotka olisivat helpommin remontoitavissa tai otettavissa käyttöön.
+[1154.3s - 1160.5s] SPEAKER_17: Minä katsosin, että tämän asian esittely ja tämän tuonti tällaisella kiireellisellä aikataululla on todella väärinvaltuutettuja kohtaan.
+[1161.3s - 1166.2s] SPEAKER_17: Meille ei ole ollut mahdollisuutta kesäaikana kaikkien selvitellä ja soitella ja olla.
+[1166.4s - 1171.9s] SPEAKER_17: Minä sain tämän tietää tietysti silloin, kun se oli kaupunginhallituksessa ensimmäisen kerran ja jäi pöydälle.
+[1171.9s - 1175.4s] SPEAKER_17: Olen sen takia pystynyt pikkuisen selvittämään ja olemaan seuroihin yhteydessä.
+[1177.1s - 1198.0s] SPEAKER_17: Ja itselläni on se tuntuma siitä, että jos näillä papereilla ja näillä selvityksillä nyt tehdään, niin ihan sikasäkissä ostetaan ja joudutaan jatkossakin varmasti tekemään tässä tämänkaltaisia toimia ja seuraava lasku tipahtaa sitten jo aivan tuota pikaan ensi vuoden budjettiin varmaan ollaan vääntämässä sitten.
+[1198.0s - 1202.3s] SPEAKER_17: Enkä minä tykkää siitäkään, että tässä on kiinteistönomistaja, joka on muutaman puolueen vaalirahoittaja.
+[1203.8s - 1205.4s] SPEAKER_17: Meillähän ei ole vaalirahoitteja.
+[1206.2s - 1213.8s] SPEAKER_17: Minä pyydän palautusta tähän pykälään ja nämä selvitykset, mitkä mainitsin, tehtäväksi palautuksen aikana.
+[1213.8s - 1220.0s] SPEAKER_05: Kiitoksia.
+[1220.5s - 1227.2s] SPEAKER_05: Sitten valtuutettu...
+[1227.2s - 1228.3s] SPEAKER_08: Anteeksi repliikki, valtuutettu Vornainen.
+[1228.4s - 1228.8s] SPEAKER_08: Kiitos puheenjohtaja.
+[1228.8s - 1230.3s] SPEAKER_08: Tässä varmasti ihan hyvä keskustelu on tulossa.
+[1230.7s - 1235.8s] SPEAKER_08: Ihan vain sen verran haluaisin kommentoida tästä aikataulusta, että ehkä hiukan nyt käristetysti asiaa esitettiin.
+[1236.2s - 1246.1s] SPEAKER_08: Itse en ollut viime kaudella valtuutettu, ja kyllä viime syksynä, kun on talousarvio tehty, niin niissä yhteyksissä tästä asiasta on ainakin jo puhuttu, että ei tämän nyt ole mitenkään ihan yllättäen tässä, että onko kesäkuussa ilmestynyt asialistoon.
+[1246.2s - 1246.4s] SPEAKER_08: Kiitoksia.
+[1246.4s - 1250.3s] SPEAKER_05: Sitten valtuutettu Tavio.
+[1259.2s - 1260.3s] SPEAKER_07: Kiitos puheenjohtaja.
+[1261.1s - 1282.4s] SPEAKER_07: No mä oon samaa mieltä kyllä, että tämä selvitys tulisi tehdä paremmin ja toivottavasti tehdäänkin paremmin nyt sitten, kun tässä on tietyt jännät liittymäkohdat kuitenkin tuohon palloeluhallin hankkeeseen, jota täällä on meidänkin osalta aika paljon kritisoitu siitä, että onko se nyt sitten semmoinen pitkäkestoisen ratkaisu, jota täällä oikeasti kaivataan.
+[1282.4s - 1285.0s] SPEAKER_07: No nyt, mitä tähän sitten liikuntatilaa taas tulee, niin
+[1286.4s - 1291.8s] SPEAKER_07: Itse ymmärsin, että virkamiehet on selvittäneet ja vastaavaa tilaa ei ole saatavilla.
+[1293.1s - 1304.0s] SPEAKER_07: Mulle ainakin on tärkeintä, että täällä on laadukkaat tilat saatavilla ja on mahdollista tarjota hyvä liikuntapaikka nuorille ja niille seuralle, jotka tätä tilaa käyttävät.
+[1304.8s - 1307.4s] SPEAKER_07: Ja onhan tuo kurja kuulla, että se tilaa on ollut huonossa kunnassa.
+[1308.8s - 1316.9s] SPEAKER_07: niin sinänsä kyllä kannata, että tämmöinen tila nyt sitten remontoidaan ja vaikka olisikin siellä muiden omistuksesi kävä kyllä.
+[1318.5s - 1321.2s] SPEAKER_07: No yksi syrjätyn nuori maksaa yli miljoona euroa.
+[1322.2s - 1339.4s] SPEAKER_07: Se on ollut tässä meillä teemana aika monessa jutussa ja aikaisemminkin ja se nyt jatkuu kyllä tässäkin, että annetaan nuorille liikuntamahdollisia Turussa, niin jos saadaan yksikin syrjätyn nuori sieltä tilastosta pois, niin siitä tulee jo niin suuret säästöt, että se kannattaa.
+[1340.4s - 1353.8s] SPEAKER_07: Mitenkin tässä yhteydessä nyt sitten ponnen ja toivon tämän päätöksen edetessä, että niitä liikunta-avustuksia ei tule Karsias seuralta, jotka tarjoavat edullisia harrastusmahdollisuuksia syrjatynsvarassa oleville nuorille.
+[1355.2s - 1364.3s] SPEAKER_07: Eli siinä on tosiaan nyt noin summat, mitä siellä pyörii se 60 tonniin ja sitten se 58 tonniin, mikä oli vähän ehkä epäselvempi vielä, että miten se velotetaan.
+[1364.3s - 1371.8s] SPEAKER_07: Mutta toivoin, että toi 60 tonnia, jos tämä päätös nyt tänään menee läpi, niin toivon, että se 60 tonnia osataan kohdistaa sitten oikein.
+[1371.8s - 1374.0s] SPEAKER_07: Ja toivon, että liikuntalautakunta on tarkkana siitä.
+[1374.0s - 1374.2s] SPEAKER_07: Kiitos.
+[1374.2s - 1376.5s] SPEAKER_07: Kiitoksia.
+[1376.9s - 1378.4s] SPEAKER_05: Sitten valtuutettu Lähteenmäki.
+[1384.7s - 1396.1s] SPEAKER_11: Arvoisa herra puheenjohtajat, valtuutetut liikuntaan panostaminen ja sen toiminnan edellisen parantaminen on aina paikallaan.
+[1396.1s - 1399.0s] SPEAKER_11: Se on hyödyllistä ja ennaltaehkäisevää toimintaa.
+[1400.8s - 1409.1s] SPEAKER_11: Se on kuitenkin niin, että kuten tässä valtuutettu Brinne totesi, niin se ei saa olla liian hyvää bisnestä jollekin.
+[1409.1s - 1412.6s] SPEAKER_11: Se rasittaa sitä muuta toimintaa.
+[1413.5s - 1419.2s] SPEAKER_11: Tässäkin on tietenkin erittäin hyvästä lajikirjasta kysymys ja tärkeätä harrastusta.
+[1419.6s - 1424.1s] SPEAKER_11: Sitähän ei tietenkään voi vastustaa sinällänsä.
+[1424.1s - 1433.3s] SPEAKER_11: Nyt kuitenkin tämä vuokra nousee aika merkittävästi mielestäni.
+[1433.9s - 1443.0s] SPEAKER_11: Tuli mieleen esittää kysymys, minkälaisen kaavan mukaan tämä vuokra nousee suhteessa siihen,
+[1444.6s - 1448.0s] SPEAKER_11: tulevaan toteutettuun korjauksen tasoon nähden.
+[1448.6s - 1450.3s] SPEAKER_11: Tähän mä haluaisin saada vastauksen.
+[1450.4s - 1459.0s] SPEAKER_11: Onko siinä joku luokinen hyvä linja, että se on hyvä vuokrankorotus tälle remontille?
+[1461.1s - 1463.5s] SPEAKER_11: Tähän varmaan saa vastauksen täällä.
+[1463.5s - 1473.0s] SPEAKER_11: Nimittäin tässä tulee mieleen edes toinen tärkeä hanke, joka myöskin täytyy saada menemään eteenpäin, eli lausteen uhimahalli,
+[1474.7s - 1493.1s] SPEAKER_11: Se on 2014 päättyy tämä sopimuskausi, ja jos tämä vuokrainen muotoutumiskaava voisi olla sielläkin hyödyllinen, voidaan käyttää sitä siellä laskettaessa tätä kustannusta.
+[1493.2s - 1499.6s] SPEAKER_11: Siellähän puhutaan merkittävästi pienemmistä kustannuksista, mutta toiminta on yhtä tärkeää vähintäänkin.
+[1503.4s - 1507.2s] SPEAKER_11: viittaa sinällään valtuutettu Rinneen puheenvuoron.
+[1507.2s - 1514.6s] SPEAKER_11: Hän piti erittäin hyvän puheenvuoron nimenomaan tämän tilojen omistuksen suhteen ja sitten miten siihen kaupunki tulee mukaan kuvioon.
+[1515.4s - 1517.8s] SPEAKER_11: Mutta nimenomaan saisi vastauksen tähän äskeiseen kysymykseen.
+[1519.9s - 1520.6s] SPEAKER_05: Kiitoksia.
+[1520.8s - 1522.0s] SPEAKER_05: Sitten valtuutettu Mäenpää.
+[1539.4s - 1550.9s] SPEAKER_20: Arvoisa puheenjohtaja, lähestyn tätä asiaa hieman toiselta kantilta, mitä esimerkiksi valtuutettu Rinne.
+[1551.0s - 1562.1s] SPEAKER_20: Alphahan on liikuntapaikkana, mitä parhain, ja Turun kaupunkissa on taatusti Suomen parhaimmat paikat harrastaa liikuntaa.
+[1563.1s - 1571.8s] SPEAKER_20: Tätä valitettavasti ei juurikaan Turussa tunnusteta, mutta sitä enemmän se saa tunnustusta Turun kaupunkirajojen ulkopuolelta.
+[1573.4s - 1577.9s] SPEAKER_20: Tietenkin mitä tulee tähän alfaan, niin tämä on myös kaksiteräinen miekka.
+[1579.7s - 1590.0s] SPEAKER_20: Kyllä se on julkinen salaisuus, että näistä alfan tiloista Turun kaupunki maksaa tietylle liikemiessiivelle ainakin
+[1591.4s - 1598.2s] SPEAKER_20: puoli toista, jopa kaksi kertasta käypää vuokraa enemmän, mitä tällaista tiloista muuten maksetaan.
+[1599.9s - 1617.5s] SPEAKER_20: Julkinen salaisuus on myöskin se, että tässä alhassa on takana, siellä taustalla häärii sama Harri Lähteenmäki, aikoinaan Apollo, Apollo-jutussa tuomittu asianajaja ja asianajajaliitosta sen vuoksi erotettu juristi.
+[1618.8s - 1627.3s] SPEAKER_20: Hän on sellainen kultasormi, että hän on tämän kaupunkiveromaksajien varoilla tehnyt tosi paljon, paljon miljoonia ja taas miljoonia.
+[1628.0s - 1642.2s] SPEAKER_20: Hän oikein suoraan sanoen, hän vaanii tilaisuutta, mistä voisi Turun kaupunkin alueella tehdä veronmaksajien varoilla, Turun kaupunkin, ostaa kaupunkin kiinteistö, vuokrata niitä näin ja näin.
+[1642.7s - 1652.8s] SPEAKER_20: Ja se on myöskin julkinen salaisuus, että hällä on poliittisiin piireihin sekä virkamiespiireihin erittäin hyvät suhteet taustalla.
+[1653.2s - 1656.3s] SPEAKER_20: No suhteissa ei ole mitään vikaa, vaikka sellaiset onkin.
+[1656.8s - 1659.1s] SPEAKER_20: mutta kuitenkin niin kuin tämäkin alfa.
+[1659.5s - 1673.2s] SPEAKER_20: Vaikka tämä on erittäin hyvä liikuntapaikka, kaiken puolin niin kamppailulait, purot kaikki, salibändi kaikki, mutta kyllä siitä maksetaan selvästi kipukynnyksen yläpuolella olevaa vuokraa.
+[1674.2s - 1680.5s] SPEAKER_20: Mitä tulee nyt tähän saran 18 000 euron vuokran nousuun?
+[1681.1s - 1683.2s] SPEAKER_20: Mitä tästä peruskorjauksta tulee?
+[1684.2s - 1707.8s] SPEAKER_20: niin valtuutettu Rinne, kyllä tämä on ollut ainakin liikuntapalvelukeskuksen tiedossa jo kauan, kauan sitten, että näitä remontteja tarvitaan, että siellä on homeonkelmaa, siellä on kosteusonkelmaa, siellä on näin, ja siitä on kyllä varmaan signaalia liikuntapalvelukeskus ja myöskin liikuntalautakunta antanut eteenpäin.
+[1708.5s - 1720.9s] SPEAKER_20: Ei me voida syyttää valtuutettu Rinne ihan suoraan tuosta, vaan että miksei ole kaupunki suorittanut valvontapelvollisuutta.
+[1722.0s - 1747.8s] SPEAKER_20: Muutoinkin, kun te vertasitte omaa asuntoan ja sen korjausta, niin voi valtuutettu Linne myöskin verrata näin, että jos olisi tällainen vastaavanlainen remonttikohdistettu, olisi jokin SPRn hallitsemaan pakolaisten vastaanottokeskukseen, niin kyllä te riemurinnoin esittäisitte varmaan vielä tuplaten tällaista rahaa myönnettäväksi ja heti.
+[1749.7s - 1755.2s] SPEAKER_20: Päätös täytäntöön valituksesta huolimatta heti ja pöytäkirja tarkastetaan sen mukaisesti.
+[1756.9s - 1761.2s] SPEAKER_20: Mitä tulee taas tähän valtuutettu Tavion ponteen, niin se oli täysin ponneton.
+[1761.2s - 1767.6s] SPEAKER_20: Emme voi valtuutettu Tavio lähteä siitä noissa kaupunkinseurojen avustukset.
+[1767.6s - 1779.6s] SPEAKER_20: Me yritetään sieltä seuloa, että kuka sieltä nyt sitten yhden nuoren, taikka kaksi nuorta, taikka kuusi nuorta, sitten saa sanoa niin kairalle tielle.
+[1779.7s - 1780.5s] SPEAKER_20: Meillä on liikunta
+[1781.3s - 1785.3s] SPEAKER_20: lautakunnassa selvät sävelet, millä nämä avustukset jaetaan.
+[1785.7s - 1786.9s] SPEAKER_20: Ne on pistöytetty.
+[1787.0s - 1797.3s] SPEAKER_20: Siellä otetaan yleisesti nuoret huomioon ja varmasti on tämän maan oikeudenmukaisin avustuksen jakoperiaate.
+[1797.3s - 1801.5s] SPEAKER_20: Eli tämä ponsi, se oli täysinsanonin arvoton.
+[1802.5s - 1818.9s] SPEAKER_20: Jos aina sanotaan, että nämä ponnet kaupunginhallitukseen luvun jälkeen menee paperikoriin, niin tällainen ponsi saa mennä jo paperikoriin heti, ei sitä tarvitse siellä kaupunginhallituksessa lukea, se on mahdoton toteuttaa.
+[1819.0s - 1824.4s] SPEAKER_20: Mutta mitä tulee tähän rahaan, mitä nyt täytyisi kattaa?
+[1825.7s - 1835.1s] SPEAKER_20: Tässä päätösesityksessä sanotaan, että liikuntalautakunta joutui sen raapimaan omista rahoistaan, niin se on kohtuuton.
+[1840.2s - 1850.5s] SPEAKER_20: Tosiaan nämä toiminta-avustukset, niiden niskassa on oltu aina melkein vuosittain, niitä on nipistetty ja supistettu.
+[1850.8s - 1857.0s] SPEAKER_20: Ja tosiaan nämä toiminta-avustukset, ne ovat tärkeitä monelle seuralle.
+[1857.5s - 1870.2s] SPEAKER_20: Valtuutettu Rinne, ei tämä vuokrankorotus nyt sellaista te, mitä te epäillette, että joku seura joutuu lopettamaan toimintaansa, eikä voi enää siellä aalffassa, en mä tähän usko.
+[1870.4s - 1885.4s] SPEAKER_20: Kyllä mä uskon, että ne alfavuokralaiset tämänkin homman jälkeen siellä säilyvät, eikä niitä avustuksia nyt niin paljon jouduta nipistämään, että joku seura tässä tapauksessa pankrotin tekee.
+[1885.8s - 1891.1s] SPEAKER_20: Tämä on aika, kyllä sanoin, liian kaukaa haettu ja karrikoitu heitto.
+[1893.6s - 1922.3s] SPEAKER_20: mutta muuten noin periaatteena ja yleensäkin liikuntapalveluiden hintojen nosto ollaan jo kipukynnys ylitetty monessa asiassa ja täytyy muistaa se mitä liikuntapalvelukeskus tekee ja liikuntalautakunta yleensäkin ennaltaehkäisevää työtä, taas kolmannen sektorin erikä eli urheiluseurojen kautta ehkäisee
+[1924.3s - 1926.3s] SPEAKER_20: sairauksia, vammoja.
+[1926.8s - 1945.6s] SPEAKER_20: Tosiaan näitä ongelma nuoria tuo takaisin Kairalle tielle ja yleensäkin parantaa tämän kaupunkilaisten hyvinvointia ja sitä kautta vähentää tämän Turun kaupunkin sosiaali- ja terveyspuolen menoja, eli suoraa selvää säästöä.
+[1948.7s - 1954.6s] SPEAKER_20: Tätä tarkoitan takaa tähän vetoan sillä, että ei saisi liikuntalautakunnan
+[1958.1s - 1978.4s] SPEAKER_20: varoja tämän vuokran korotuksen muodossa rokottaa ja tähän veto myöskin seuraparlamentti antamassaan lausunnossa, minkä toivottavasti kaikki on sieltä valtuuston esityhdistan liitteenä olleena lukeneet.
+[1980.9s - 1986.2s] SPEAKER_20: Tämä remontti on pakko tehdä, myönnän sen, että siinä ollaan vähän pakkoraossa,
+[1988.4s - 1999.3s] SPEAKER_20: No se on tämän yksityisen pääoman paha vika joskus, että tällaista julkisyhteisöä väännetään peukaluruuvista viime hetkellä.
+[2000.4s - 2004.4s] SPEAKER_20: Se on tietenkin, täytyy tukistaa niitä.
+[2005.4s - 2026.1s] SPEAKER_20: niitä, varsinkin virkamiehiä, jotka ovat tämän asian antaneet mennä näin pitkälle, mutta pakko tämä remontti on tehdä ja pakko nämä rahat on jostain ottaa, mutta en suinsurminkaan halua, että niitä otetaan liikuntalautakunnan budjetista ja teenkin seuraavan muutosesityksen.
+[2027.0s - 2042.3s] SPEAKER_20: Kaupunki-valtuusto päättää oikeuttaa kiinteistöliikelaitoksen johtokunnan hyväksymään liitteenä yksi olevaan tarjoukseen pohja-autova vuokrasopimuksen, jolla liikuntaparkker Oyltä vuokrataan 4724 metrin liikuntatilat.
+[2042.9s - 2056.0s] SPEAKER_20: Edellyttäjätä liikuntalautakunta hyväksyy sen mukaisen sisäisen vuokrasopimuksen ehrot ja päättää, että vuokran nousu katetaan korotuksena liikuntalautakunnan purjetin ohjelun.
+[2056.7s - 2061.4s] SPEAKER_20: yritän arvoisa puheenjohtaja tekstaila sen koneella.
+[2061.4s - 2062.2s] SPEAKER_05: Kiitoksia.
+[2062.2s - 2065.2s] SPEAKER_05: Sitten vastaus Puheenvuoron valtuutettu Tavio.
+[2066.9s - 2075.3s] SPEAKER_07: Niin, mukava kuulla vaan, että Ponsi oli sitten niin itsestäänselvä, että se saikin tällaisen aika ilmeisesti itsestäänselvän kannatuksen, mutta
+[2076.2s - 2103.8s] SPEAKER_07: ilman sitä kannatusta kylläkin, mutta toivottavasti se ei ollut ihan roskakorimia, koska itsellä ainakin tosiaan se, että näen täällä tuon luvun 60 000 ja sen osuus tuosta vaikuttaa aika pieneltä, niin se herätti vaan jonkin verran itsellä sitä semmoista ajatusta tai epäilyä, että meneekö se siellä nyt sitten oikein näiden seurojen kesken jako, koska siitäkään ei ollut tässä mitään mainintaa, että sinänsä vähän puutteellista, mutta hyvä, että liikuntalautakunnassa
+[2104.7s - 2107.4s] SPEAKER_07: Ollaan jakamassa rahoja oikeudenmukaisesti, se on aina hauska kuulla.
+[2108.7s - 2117.1s] SPEAKER_05: Jo tuota mainitsen tästä tota mäenpää, ei kyllä kannattaa olla sitä ponttaa, että... Niin, mutta äsken se on... Niin.
+[2117.2s - 2117.5s] SPEAKER_05: Selvä.
+[2117.5s - 2119.1s] SPEAKER_05: Sitten vastauspuheenvaltuutettu Takkula.
+[2120.7s - 2132.0s] SPEAKER_22: Joo, arvoisa puheenjohtaja, ihan tällainen huomattavuus on tietenkin uusi tässä valtuustossa, ja minulla on sitä jollakin tavalla erikoista, että puheenjohtaja sallii jotenkin ihmisten solvaamisen ilman, että me tunnemme täällä.
+[2132.0s - 2133.4s] SPEAKER_22: Minusta siihen pitäisi puuttua, koska
+[2133.9s - 2139.0s] SPEAKER_22: ei missään julkisessa parlamentissa pidä mennä tämän tyyppiseen keskustelun tai herjaamiseen.
+[2139.0s - 2143.5s] SPEAKER_22: Eli meillä ei ole asiakirjoja, mistä me voitaisiin katsoa pitääkö tiedot paikkansa ylipäätään.
+[2143.8s - 2148.1s] SPEAKER_22: On hyvä puhua asioista ja tästä esityslistaista, eikä mahdollisesti jostakin omistajista enää edetä.
+[2148.1s - 2153.9s] SPEAKER_22: Minun mielestä tämän tyyppinen puheenvuoro on hyvin loukkaava täällä ja toivon, että näihin jatkossa puututaan.
+[2153.9s - 2154.4s] SPEAKER_05: Kiitoksia.
+[2154.7s - 2156.3s] SPEAKER_05: Sitten replikki valtuutettu Viljama.
+[2157.7s - 2159.8s] SPEAKER_02: Joo, kiitos puheenjohtaja, arvoisat valtuutet.
+[2159.8s - 2161.4s] SPEAKER_02: Valtuutettu Taviolle sen verran,
+[2162.6s - 2181.8s] SPEAKER_02: Valtuutettu Tavio on toistuvasti viitannut tähän 60 000 euron määrärahaan, mikä otettaisiin avustuksesta pois, niin sehän ei pidä paikkansa, koska siellä päätösesityksessä lukee, että liikuntalautakunnan tulee kattaa aiheutunut vuokrankorotus kaupunginvaltuuston vahvistama suunnitteluluvun puitteissa, että siihen 60 000 euron ei kannata jäädä kiinni.
+[2182.5s - 2183.1s] SPEAKER_02: Kiitoksia.
+[2183.1s - 2185.6s] SPEAKER_05: Sitten mennään puheenvuoron listan valtuutettu Laivaranta.
+[2194.3s - 2203.8s] SPEAKER_10: Arvoisa puheenjohtaja, hyvät valtuutetut, se on selvää, että liikunta ja siihen kannustaminen on välttämätöntä.
+[2203.8s - 2207.9s] SPEAKER_10: Mutta tämä päätösesitys ei sitä tee.
+[2209.3s - 2222.3s] SPEAKER_10: Tämän esityksen hyväksyminen päinvastoin se vain nostaa kustannuksia eräiltä osin, eli kiinteistökuluja, ja se on pois sitten muusta toiminnasta eli varsinaisesta liikunnasta.
+[2222.3s - 2231.0s] SPEAKER_10: Se heikentää, siis tämä nostaa kiinteistökustannuksia eikä millään tavalla eristä liikuntaa, vaan heikentää muita palveluja.
+[2231.1s - 2233.3s] SPEAKER_10: Se on, niin kuin kuultiin täältä, se on otettava
+[2234.2s - 2237.5s] SPEAKER_10: liikuntatoimen sisältä muista toimista pois.
+[2238.1s - 2248.9s] SPEAKER_10: Sitten tässä on yksi sellainen kummallisuus myöskin, että tämä on täysin pois siitä linjasta, jota me keväällä uudistusohjelman yhteydessä päätimme yhdessä.
+[2249.5s - 2251.1s] SPEAKER_10: Tämä ei millään sovi siihen,
+[2252.1s - 2265.0s] SPEAKER_10: kolmiryhmään, jotka on keinoja, joista kyllä kiistellään, mutta menojen saattaminen saatavilla olevien tulojen kanssa tasapainon, sehän oli uudistusohjelman lähtökohta.
+[2265.1s - 2271.4s] SPEAKER_10: Meillä keskustassa on se lähtökohta, että etupainoitteisesti pitäisi tehdä näitä kokoomuksen vaatimia
+[2273.0s - 2285.6s] SPEAKER_10: uudistuksia, eli rakentellisia uudistuksia, ja me tulemmekin vaatimaan, että kokoomus suurimpana ryhmänä alkaa pitkuhiljaa sanoista tekoihin, eli eristämään näitä rakentellisia uudistuksia.
+[2285.6s - 2294.1s] SPEAKER_10: Siinä me annamme vahvan tuen ja toivomme, että kokoomus tukisi virkamiehiä johtoa, joilla uskon olevan tähän kyllä halua.
+[2294.2s - 2300.5s] SPEAKER_10: Minulla on sellainen käsitys, että meidän virkamiesihorossa on hirvittävä halu tehdä rakentellisia uudistuksia.
+[2301.8s - 2311.6s] SPEAKER_10: Se, että täällä on vaadittu myöskin kokoumusta ottamaan vastuuta veronkorotuksista, joka on yksi tähän pakettiin kuuluva asia, niin se on sinänsä ihan oikein.
+[2312.0s - 2325.1s] SPEAKER_10: Mutta meidän, jotka olemme kannattaneet tätä talouspolitiikkaa vastuunottaminen veronkorotuksista, on oikein, että kokoumusta vaadita ottamaan vastuuta veronkorotuksista, koska täällä on tehty kerran kokoumuslaista talouspolitiikkaa.
+[2325.5s - 2330.6s] SPEAKER_10: Mutta toisaalta meidän pitää katsoa peilin, että miksi me olemme hyväksynyt semmoisen talouspoliittisen linjan.
+[2330.6s - 2334.4s] SPEAKER_10: Ei se kokoomuksen vika ole yksin, eihän kokoomuksella ole enemmistöä.
+[2334.5s - 2341.1s] SPEAKER_10: Kuudesta kymmenestä seitsemästä valtuutetusta on vain 20, hällen väärin muista.
+[2341.2s - 2344.0s] SPEAKER_10: Elikkä turha on kauheasti osottaa siihenkään suuntaan.
+[2346.6s - 2348.4s] SPEAKER_10: Yksi keino on leikkaukset.
+[2348.4s - 2350.8s] SPEAKER_10: Eli näitä on kolme keinoa olisiin listassa.
+[2351.6s - 2355.2s] SPEAKER_10: Verojenkorotus, leikkaukset ja rakenteelliset uudistukset.
+[2355.2s - 2357.5s] SPEAKER_10: Nämä olivat uudistusohjelman sisällön lista.
+[2358.3s - 2364.5s] SPEAKER_10: Ja nyt tänne tulee kustannusten nousu, päätös, joka nostaa kustannuksia.
+[2364.5s - 2367.6s] SPEAKER_10: Ja nyt sitten sanotaan, että meidän on pakko tämä tehdä.
+[2367.6s - 2373.4s] SPEAKER_10: En ymmärrä tällaista pakkoon edessä tehtävää päätöstekokulttuuria,
+[2374.2s - 2384.2s] SPEAKER_10: tällaisessa kaupunkissa, joissa puhutaan kuitenkin strategioista ja puhutaan hallitusta johtamisesta, suunnitelmallisesta johtamisesta.
+[2384.6s - 2386.6s] SPEAKER_10: Mitä suunnitelmallisuutta tämä on?
+[2387.1s - 2397.9s] SPEAKER_10: Tai sitten olen huonosti lukenut läksyni keväällä mielestäni, kun toimialoilta tuli uudistusohjelmaa varten, uudistusohjelman pohjaksi,
+[2398.6s - 2412.5s] SPEAKER_10: väitettiin, että ne ovat hyvin perustellisia analyysseja toiminnasta ja sen suunnittelemisesta vuosiksi eteenpäin, niin missään siellä ei tuotu esille tällaista kustannusnousua ja tällaista päätöstä.
+[2412.6s - 2413.8s] SPEAKER_10: Ja nyt se on tässä.
+[2414.0s - 2439.3s] SPEAKER_10: niin kyllä tämä vie uskottavuutta, ja se, että nyt väitetään, että ei ole muuta mahdollisuutta, niin me keskustassa emme ainakaan usko siihen, koska uskottavuus on mennyt äsken mainituista syistä, ja siksi kannatan tätä Vasemmistoliiton valtuutettu Rinteen tekemää eeroitusta palautta tämä uuteen valmisteluun, ja kyllä meidän lähtökohtamme on, että nyt pitää pistää asiat
+[2440.5s - 2446.5s] SPEAKER_10: jonoon ja kerralla käydään arvokeskustelu, miten ja millä tavalla me saamme
+[2447.4s - 2448.6s] SPEAKER_10: talouden tasapaino.
+[2448.6s - 2467.0s] SPEAKER_10: Me saimme tänään täällä seminaarissa selvän briefauksen taas siitä, että todellisuudessa, vaikka julkisuudessa ja sisään kaiken näköisiä lukuja ja keinotekoisesti yritetään saada talous piikkusen vain tältä vuorilta alijäämäiseksi, mutta todellisuudessa se on jäämässä 42 miljoonaa alijäämäiseksi.
+[2467.1s - 2471.4s] SPEAKER_10: Niin kyllä meidän nyt viimein ja vihroin täytyy ottaa vastuu näistä päätöksistä.
+[2471.5s - 2474.1s] SPEAKER_10: Ja sen takia me emme voi olla tämmöisen päätöksen takana.
+[2474.3s - 2474.7s] SPEAKER_10: Kiitoksia.
+[2474.7s - 2476.6s] SPEAKER_05: Kiitoksia.
+[2476.9s - 2480.7s] SPEAKER_05: kun on tehty kannetettu palautus keskeytään keskustelun.
+[2481.7s - 2485.1s] SPEAKER_05: Kysyn näitä puheenvuoron listassa olevilta, että onko palautukseen.
+[2485.2s - 2487.4s] SPEAKER_05: Ilmeisesti ei ole.
+[2489.1s - 2495.4s] SPEAKER_05: Koska asia ei ilmeisesti yksimielisesti palaudu, niin täytyy suorittaa äänestys.
+[2495.5s - 2506.2s] SPEAKER_05: Tein seuraavaisen äänestysesityksen, eli keskustelun jatkaminen on jaa, palautus, eli rinteen laivaranan palautus on ei.
+[2507.3s - 2509.1s] SPEAKER_05: Hyväksytään äänestysmenettely.
+[2509.4s - 2510.1s] SPEAKER_05: Hyväksytään.
+[2511.4s - 2514.3s] SPEAKER_05: Eli jatkaminen on jaa ja palautus on ei.
+[2515.3s - 2516.2s] SPEAKER_05: Äänestys alkaa.
+[2544.7s - 2544.9s] SPEAKER_05: Selvä.
+[2549.1s - 2560.6s] SPEAKER_05: Merketaan pöytäkirjaan ja äänestys päättyy.
+[2562.2s - 2566.0s] SPEAKER_05: 50 jaa ja 17 ei, eli keskustelu jatkuu.
+[2580.5s - 2592.7s] SPEAKER_05: Otetaan myös ne replikit, jotka erityinen tuossa äsken antaa, niin mennään sillä järjestyksessä kuitenkin, että repliikki valtuutettu Sarlund ja menen vain valtuutettu Laivorannalle.
+[2593.0s - 2593.2s] SPEAKER_18: Kyllä.
+[2593.9s - 2602.3s] SPEAKER_18: Arvoisa puheenjohtaja, täytyy sanoa, että valtuutettu Laivorannan puheenvuoro oli kyllä minusta siinä mielessä aika erikoinen, kun tiedän, että hän vielä itse edustaa
+[2602.8s - 2603.5s] SPEAKER_18: rakennusalaa.
+[2603.5s - 2613.7s] SPEAKER_18: Sellaiset asiat kuin paloturvallisuus tai sisäilmanlaatu on kuitenkin aika monissa muissa yhteyksissä pidetty aika tärkeinä asioina myös tässäkin salissa.
+[2614.1s - 2622.8s] SPEAKER_18: Tiedän, että ne tietysti rahoittajan mielestä saattaa olla sellaisia kuin putkiremonttia, että ei kiinnosta, kunnes paukattaa, mutta silloin ollaan jo suurissa ongelmissa.
+[2623.4s - 2639.8s] SPEAKER_18: Virhe on varmaan tapahtunut siinä, että nämä tilat on otettu, en tiedä missä tilanteessa, mutta oletan, että kovassa tilapulassa käyttöön 90-luvun lopulla tilapäisen poikkeusluvan turviin, ja silloin on jätetty saattamatta asialiselle tolalle nämä muun muassa paloturvallisuusasiat.
+[2640.2s - 2649.8s] SPEAKER_18: Ei tarvittaisi kuin yksi tulipalo tämänkaltaisissa tiloissa, missä harrastaa paljon ihmisiä, muun muassa lapsia ja nuoria, ja se keskustelu, mikä täällä valtuustosalissa siinä kohtaa käytäisi,
+[2650.2s - 2658.9s] SPEAKER_18: Kaikki meistä kysyisivät sitä, miten voi olla mahdollista, että tällaisten harrastetilojen paloturvallisuus ei ole sillä tasolla, kun se pitäisi olla.
+[2659.4s - 2668.9s] SPEAKER_18: Tai ilmanvaihto on toinen sellainen, mistä me monissa muissa yhteyksissä täällä puhutaan, että siinä mielessä kyllä hämästelen tätä keskustelua ja valtuutettu Laivorannan puheenvuoroa aivan erityisesti.
+[2668.9s - 2669.7s] SPEAKER_18: Kiitoksia.
+[2670.0s - 2672.4s] SPEAKER_05: Sitten replikki puheenvaltuutettu Sirén.
+[2674.8s - 2689.3s] SPEAKER_01: Niin, arvoisa puheenjohtaja, myöskin valtuutettu Laivorannan puheenvuoroon, kun hän puhuu rakenteellisten muutosten ja uudistusten tarpeesta, ja hän puhuu veronkorotuksista, niin liian ehkä syytä muistuttaa, että mistä tässä oikeastaan ollaan päättämässä.
+[2689.4s - 2703.1s] SPEAKER_01: Tässähän ollaan päättämässä vuokrasopimuksesta, tilasta, joka on tällä hetkellä liikuntakäytössä, mutta ei täytä niitä edellytyksiä, että sitä voitaisiin liikuntakäyttöön käyttää, ja tämä päätös on pakko tehdä.
+[2704.0s - 2706.0s] SPEAKER_01: kun sitä ei ole aikanaan tehty.
+[2706.2s - 2716.4s] SPEAKER_01: Nyt jos nämä tilat saatetaan siihen kuntoon, että siellä voidaan liikuntaa harrastaa, niin se toki kustannuksia kasvattaa tämän vuokran osalta.
+[2716.7s - 2733.3s] SPEAKER_01: Mutta muistuttaisin valtuutettu Laivaraneelle myöskin, että päätösehdotus on nimenomaan, että tämä toteutetaan ohjeluvun puitteissa, jolloin veronkorotukset ja rakenteelliset uudistukset ja talousnäkökulma ei sillä tavalla tähän keskusteluun oikein sovi samaan aikaan.
+[2734.1s - 2752.9s] SPEAKER_01: Valtuutettu Laivoranta puhui myöskin vastuun kantamisesta, niin olisi mielenkiintoista tietää, että mikä on vaihtoehto, jos halutaan kantaa vastuuta, niin eikö silloin olisi vastuullista korjata nämä tilat turvalliseksi ja käyttöä vastaavaksi, ja mikä on vaihtoehto, jos vuokrasopimusta ei tehdä, niin seurat jäävät sitten ilman tilaa.
+[2752.9s - 2753.3s] SPEAKER_01: Kiitoksia.
+[2753.4s - 2755.7s] SPEAKER_01: Sitten valtuutettu Heikkele, Replikki Puheenvuoro, valtuutettu Laivorannalle.
+[2763.4s - 2785.2s] SPEAKER_13: Herra puheenjohtaja, valtuutettu Laivorannalla sen verran, hän käyttää tätä nykyistä muotisanaa eli rakenteelliset uudistukset ja se alkaa pikkuhiljaa harmittaa, kun sitä käyttää yksun toinen politiikko ja heppu, niin tämähän tarkoittaa ihan suoraan veromaksajien kohtaan, samaa kuin leikkaukset.
+[2785.2s - 2789.3s] SPEAKER_13: Ei kannata hienostella näillä sanoilla, vaan sano sitten suoraan, jos on sanottu.
+[2790.6s - 2791.6s] SPEAKER_05: Kiitoksia.
+[2791.6s - 2794.7s] SPEAKER_05: Sitten vastauspuoronvaltuutettu Laivarainen ja valtuutettu Saalundille.
+[2797.2s - 2813.6s] SPEAKER_10: Arvoisa puheenjohtaja, en ymmärrä niitä perusteluja, joilla näitä puokrahankkeita kannatetaan ja puolustetaan sillä, että kun omissa hankkeissa tehdään korjauksia ja remonteja, ne menevät aina pieleen.
+[2813.7s - 2818.7s] SPEAKER_10: Tämä on todella törkeitä meidän omien viranhaltijoiden ja asiantuntijoiden
+[2820.9s - 2821.8s] SPEAKER_10: mollaamista.
+[2822.9s - 2823.9s] SPEAKER_10: No näin.
+[2824.4s - 2827.1s] SPEAKER_10: Mä ymmärsin tämän asian.
+[2827.2s - 2827.9s] SPEAKER_05: Kiitoksia.
+[2829.4s - 2839.5s] SPEAKER_05: Sitten en anna vastausta enää tähän valtuutettu Saarunille, vaan pyydän, että otetaan puheenvuoro ja täytyy kehoitaan jokaista valtuuttua miettimään sen, että mikä on vastauspuheenvuoro.
+[2840.2s - 2847.9s] SPEAKER_05: Eli se löytyy sitten hyvinkin tarkasti sanottua, että yritetään pitää siitä kiinni, että vastauspuheenvuoro ja pyydetään omat puheenvuorot siitä.
+[2848.9s - 2851.0s] SPEAKER_05: Sitten mennään puheenvuoron listalla valitettua Miikkola.
+[2862.0s - 2874.7s] SPEAKER_14: Arvoisa puheenjohtaja, olen urheilumies, urheiluveteraani ja sen on valtuutettu Mäenpääkin täällä valtuustossa sanonut tosi ihmeellisessä yhteydessä kun puhuttiin Ilkka Kanervasta.
+[2876.4s - 2879.9s] SPEAKER_14: Mutta kyllä tuo mähenpää on tänään kehun itseensä ja lautakuntaan.
+[2879.9s - 2885.3s] SPEAKER_14: Tuossa mähenpäässä tänä päivänä kulminoituu tämä ongelma, mikä valtuutetulla yleensä on.
+[2885.8s - 2887.2s] SPEAKER_14: Lautakunta olen minä.
+[2887.7s - 2895.5s] SPEAKER_14: Hän todella pelkästään tässä näkee oman lautakuntansa aivan niin kuin se on maailman napa, eikä mikään muuta.
+[2895.9s - 2898.0s] SPEAKER_14: Ei näin valtuutettu voi käyttäytyä.
+[2898.1s - 2901.5s] SPEAKER_14: Valtuutettu pitää nähdä, mikä on Turun ja turkulaisten kokonaisetu.
+[2901.9s - 2908.1s] SPEAKER_14: En minä tätä kiellä, etteikö tämä tässä tullu näkyviin, mutta tämmöisenä pienellä piikkinä mäenpäin.
+[2908.1s - 2910.7s] SPEAKER_14: Hyvät kuulijat, tämä on hyvä hanke.
+[2911.7s - 2913.4s] SPEAKER_14: Tämä on hyvä hanke, urheilu on hyvä asia.
+[2914.0s - 2925.2s] SPEAKER_14: Me saamme nuoret, ainakin jotkut nuoret, pois karulta potkimasta rännejä, potkimasta mummoja, pappoja, tämä minun ikäisiäkin, jotka vielä siihen yrittävät kyetä.
+[2925.3s - 2927.6s] SPEAKER_14: Mutta huonoa tässä on tuo rahoitus.
+[2929.3s - 2931.4s] SPEAKER_14: Eli miten tuo vuokrakatetaan?
+[2932.8s - 2940.2s] SPEAKER_14: Esityksessä puhutaan siitä, että se on poissa seurojen toimintamenoissa, eli käyttömaksuista, eli sillä se rahoitetaan.
+[2941.4s - 2943.2s] SPEAKER_14: Eihän se näin voisi olla.
+[2943.8s - 2958.7s] SPEAKER_14: Se on silloin pois seurojen perustyöstä, siitä työstä, mitkä seurat todella tekevät jopa pyyteettömästi, epäitsekkäästi, hartia pankilla, tavalliselle turkulaisille, nuorille ja vanhoille ja niin edelleen.
+[2959.4s - 2973.9s] SPEAKER_14: edustan itse Aarnen talli ja sanon, että katsokoapa siellä keskiviikkoaamuisin, kun siellä on parhaista tapauksia, liki 500 papparaista tämän ikästä siellä, niin eikö tämä ole yhteiskunnallisesti tärkeä asia ja koko Turku on liikuttava asia?
+[2976.1s - 2985.3s] SPEAKER_14: Kun nuo käyttomaksut nyt sitten mukama katsotaan tuolla tavalla, ja jos ne ei sattumalta riitä, niin hyvät ystävät pyydän kysymään, että mitä sitten tehdään.
+[2985.8s - 2991.8s] SPEAKER_14: Otetaanko se pois sitten tämä se lisää maostiurheiluseurueen perusavustuksista.
+[2992.1s - 2994.3s] SPEAKER_14: Tämäkin on vaarana sen takia,
+[2994.8s - 3005.8s] SPEAKER_14: että siellä takana pilkottaa myös tämän palloilunhallin hanke, joka tullaan toteuttamaan todennäköisesti vuokrahommana, etteisemme omintaseisiinsa raskana taakkana.
+[3008.0s - 3021.9s] SPEAKER_14: Sinänsä hyvin hankkia kaikki, mutta me elämme nyt semmoista aikaa, jolloin pitää ottaa läheijöihiminen huomioon, tavallinen ihminen, joka sairastaa vanhukset, niin meillä on katsottava arvovalintoja ja se on meidän valtuutettujen tehtävä täällä.
+[3022.7s - 3028.6s] SPEAKER_14: Eikä katso, että on lukuisia hyviä asioita, vaan ei muuta kuin olen täsmälleen molempaa mieltä.
+[3031.6s - 3037.9s] SPEAKER_14: Yleisesti ottaen minua ihmetyttää tämä eri toimialojen kiinteistöjen käyttöpolitiikka.
+[3038.0s - 3040.1s] SPEAKER_14: Tähän liittyy myöskin tämä liikuntapuoli.
+[3041.0s - 3046.0s] SPEAKER_14: Mä muistan kun liikuntalautakunta aikanaan oli Linnan Kasarmilla.
+[3046.1s - 3050.3s] SPEAKER_14: Kun se lähti tuonne Verdantin tiloihin stadionnille maksamaan vuokraa.
+[3051.9s - 3057.9s] SPEAKER_14: Talo jäi tyhjilleen, kutakuinkin tyhjilleen ja oli pitkän aikaa tyhjilleen.
+[3057.9s - 3060.9s] SPEAKER_14: Tuore tapaus Turun satamaan esikunta
+[3062.2s - 3068.1s] SPEAKER_14: se panttiin kuntoon taloon todella fiksus kunnossa, paalutettiin siel satamassa, mikä ei oo liian halpaa hommaa.
+[3069.6s - 3077.4s] SPEAKER_14: Samaan aikaan sataman esikunta siirtyy meritaloon maksamaan ruotsalaiselle säätiölle isoa vuokraa,
+[3078.1s - 3080.6s] SPEAKER_14: Ja koko tämä esikunta on ollut tyhjä.
+[3081.3s - 3085.1s] SPEAKER_14: Hyvät ystävät, ei näin voi Turun vuokrapolitiikkaa hoitaa.
+[3085.2s - 3087.2s] SPEAKER_14: Tähän on aivan järjestöntä touhua.
+[3087.3s - 3091.6s] SPEAKER_14: Pitää olla pitkäjänteinen suunnitelma, miten nää katetaan, kuka tulee taloon.
+[3091.7s - 3098.4s] SPEAKER_14: Jarkko Virtanen, apulaiskaupunginjohtaja, kertoo jo, että tästä pikkusen ei natsannut ihan kohdalleen edessä seminaarissa.
+[3098.4s - 3105.4s] SPEAKER_14: Kiitos siitä hommasta, mutta joka tapauksessa minua eivät sanat paljon tyydyttä, jos teot eivät kohtaa.
+[3106.2s - 3107.8s] SPEAKER_14: Täihin pitää kiintää huomiota.
+[3108.2s - 3117.7s] SPEAKER_14: Jatkossa ehdottomasti pitää olla selvillä, että kuka tulee meidän tiloihin, jos me mennään toiseen paikkaan, ja vielä niin, että se maksaa vähän enemmän kuin mitä me maksamme.
+[3117.7s - 3122.0s] SPEAKER_14: Silloin se on tarvellisesti bisnistä ja turkulaisten kannalta kannattavaa.
+[3122.7s - 3124.2s] SPEAKER_14: Arvoisa puheenjohtaja.
+[3126.4s - 3130.2s] SPEAKER_14: Kannatan Ville Tavion tekemää ponsiesitystä.
+[3131.1s - 3141.1s] SPEAKER_14: Siinä voi olla teknisesti jotakin lapsuksia, niin kuin Olavi Mäenpää valtuutettu sanoi, mutta se johtuu siitä, että hän ei ole ihan täysin niin hullu liikuntamies kuin minä.
+[3141.6s - 3151.5s] SPEAKER_14: Virhe hyväksyttäneen ja toisaalta liikuntaihmiset siellä tietävät, mitä hän tarkoittaa, eli että ei oteta pois sieltä, missä se on todella välttämätöntä.
+[3151.6s - 3153.3s] SPEAKER_14: Arvoisa puheenjohtaja, olen puhunut.
+[3153.3s - 3154.8s] SPEAKER_05: Kiitoksia.
+[3155.6s - 3157.7s] SPEAKER_05: Reprikkipuheenvuoro Valtuutettu Viljamaa.
+[3158.8s - 3162.2s] SPEAKER_02: Kiitos puheenjohtaja, arvoisat valtuutetut.
+[3162.6s - 3172.1s] SPEAKER_02: Valtuutettu Miikko se verran, että tästä palaan vähän tähän budjettiin, että liikuntalautakunnan ja liikuntalautakunnan budjettia tietenkään ei vielä 2014 vuodelle ole olemassa.
+[3172.9s - 3179.8s] SPEAKER_02: Kaupunginvaltuus on hyväksynyt suunnitteluluvut kesäkuun kokouksessaan, jonka puitteissa varmaan liikuntalautakunta toimii.
+[3180.4s - 3189.9s] SPEAKER_02: edelleen korostan sitä, että ainakin oma lähtökohta lähtee siitä, että liikuntalautakunnassa ei karsittaisi suoraa toiminta-avustuksista noin paljon.
+[3190.4s - 3200.4s] SPEAKER_02: Tässä on ihan hyvä lisäty myöskin valtuutettu Miikkolle, koska itsekin kun se liikuntalautakunnassa toimi, verrattuna valtuutettu Mäenpää, niin olen kyllä huomattavasti kovempi jätkävielisiä.
+[3200.5s - 3205.1s] SPEAKER_05: Kiitoksia ja toivon todella, että valtuutettu
+[3205.8s - 3211.1s] SPEAKER_05: Valtuutetut käyttäytyvät arvokkaasti ja kunnioittavat toisten osan puheenvuoroja.
+[3212.5s - 3217.7s] SPEAKER_05: Seuraava puheenvuoro on valtuutettu Janina Anderssoni ja hän on ilmeisesti siellä jo valmiina.
+[3217.9s - 3218.2s] SPEAKER_05: Ole hyvä.
+[3221.1s - 3225.7s] SPEAKER_19: Haluan valtuuttaa Laivaronelle, vaan sanoi, että hän varmaan vähän kuuli tai ymmärsi valtuutettu Saarundia väärin.
+[3225.7s - 3230.4s] SPEAKER_19: Saarund ei haukkunut ollenkaan omia korjauksia ja näin pois päin.
+[3230.5s - 3232.6s] SPEAKER_19: Jos joku ymmärsi niin, niin hän ei haukkunut.
+[3233.2s - 3237.2s] SPEAKER_19: Toinen asia, että kannattaa lukea se esityslisto ihan loppuun asti.
+[3237.2s - 3242.0s] SPEAKER_19: Itsekin vähän hämmennyin, kun luin sitä, koska siinä on se alkuperäinen virkamiesten tekemä päätösehdotus.
+[3242.5s - 3245.4s] SPEAKER_19: Sitten siinä on meidän lautakunnan yksimielinen päätösen jälkeen.
+[3246.0s - 3264.0s] SPEAKER_19: Ja siinä virkamiesten estyksessä lukee, että näin ja näin paljon seuroilta ja näin ja näin paljon sieltä ja sieltä, mutta me emme halunneet sitoutua semmoisiin lukuihin, vaan meidän se lopullinen päätös oli se, että me tämän jälkeen vasta katsotaan, jos se on pakko, jos ette kilteisesti anna meille rahaa, niin jos se on pakko, niin me sen jälkeen pyrimme katsomaan, mistä sen voisi ottaa, missä sattuisi vähiten.
+[3264.0s - 3266.6s] SPEAKER_19: Mutta voin sanoa, että ei ole mitään paikkaa, missä sen voisi ottaa.
+[3266.9s - 3268.5s] SPEAKER_19: Elikkä mä nyt toivon, että te
+[3269.0s - 3280.7s] SPEAKER_19: Tämän jälkeen, kun me tehdään budjettia ensi vuodelle, muistatte tämän ahdingon, että tämmöisiä juttuja tulee, se kohdistuu liikuntaan, ja olette armollisia meille siinä budjettineuvottelussa sitten ja myös siinä äänestyksissä.
+[3280.8s - 3282.1s] SPEAKER_19: Se minä toivon nyt teiltä.
+[3284.7s - 3294.4s] SPEAKER_19: Sitten voin sanoa myös sen, että kun puhutaan taustaa vaikuttavista asioista, niin meikään ei meillä mitään vaarautusta saaneet tältä paholta yhtään mitään.
+[3294.9s - 3302.2s] SPEAKER_19: Mutta minä kuitenkin ymmärrän, että kun vuokran antaja tekee remontteja, hän myös mielellään korottaa vuokran, jos siihen saumaa tulee.
+[3303.1s - 3317.2s] SPEAKER_19: eräs lähisukulaisen ihan tässä lähiaikoina, niin hän oli aivan tyytyväinen omaan vuokra-asuntoonsa, mutta omistaja halusi korjata koko talon viimeisen päälle ja samalla korottaa erittäin voimakkaasti vuokria.
+[3317.2s - 3330.8s] SPEAKER_19: No tämä lähisukulainen muutti muualle asumaan, koska hänillä ei ollut varaa siihen vuokraan, mitä siihen korotettiin, mutta ei hänellä ollut valinnan varaa, jos se omistaja remppaa ja ilmoittaa, että näin kun vuokrat ylöspäin, niin se on vain otettavaa tai jätettävää.
+[3331.4s - 3336.0s] SPEAKER_19: Nythän meillä on se tilanne, että vuokrasopimus raukeaa kohta, eli neuvottelun tilanne on päällä.
+[3336.4s - 3340.7s] SPEAKER_19: Ja kun neuvotellaan, niin on tietysti lopputulossa, että jompi kumpi tehdään sopimus tai ei.
+[3340.7s - 3355.8s] SPEAKER_19: Ja tässä kohtaa, jos teillä on nyt jotain sellaista tietämystä, jota minä en ole koskaan mistään kuullut, että sellaisia korkeita tiloja, niin kuin Lintula ja tämä Alpha Center, johon mahtuu telinevoimistilijat, mahtuu nämä korkeat hypyt ja muut, niin kertokaa ihmeessä.
+[3356.3s - 3360.8s] SPEAKER_19: Jos joku semmoinen hyvä alpatila on jossain, sitä ei ole nähty, niin kertokaa ihmeessä.
+[3360.8s - 3362.5s] SPEAKER_19: Me todella oltaisiin iloisia siitä.
+[3363.0s - 3367.7s] SPEAKER_19: Eli jos nyt sanotte, että tämä on väärä paikka, mennään jonnekin muualle, niin nyt on se neuvottelu hetki.
+[3367.8s - 3369.1s] SPEAKER_19: Sanokaa sen nyt.
+[3373.5s - 3381.4s] SPEAKER_19: Sitten haluaisin myös ottaa esille sen, että näin usein tapahtuu maailmassa, kun on joustua sinne ja tänne, tehdään väliaikainen ratkaisu.
+[3381.6s - 3386.6s] SPEAKER_19: Eli tämäkin on joskus oltanut väliaikaisena ratkaisuna, joka näkyy aina vaan venynyt ja venynyt.
+[3387.3s - 3391.9s] SPEAKER_19: Olen todella todella onnellinen ja koputa nyt puuta, ettei sillä ole mitään tapahtunut.
+[3392.3s - 3403.1s] SPEAKER_19: Koska silloin kun on tällainen väliaikainen ratkaisu, olen myös aikaisemmin ollut teurisuuslogomossa, olin siellä myös uriluseurojen kanssa ja se oli myös väliaikainen ratkaisu, missä pelattiin jalkapalloa
+[3403.8s - 3405.6s] SPEAKER_19: aika erikoissa olosuhteissa.
+[3406.0s - 3411.8s] SPEAKER_19: Eli kun tehdään tämmöisiä, kun harrastetaan ja on vähän rahaa, niin tulee eräisiä väliaikaisia ratkaisuja.
+[3411.9s - 3418.3s] SPEAKER_19: Nyt ollaan huomattu, että tämä ei olekaan väliaikainen ratkaisu, mutta tätä on jatkunut pitkään ja tämä on hyvässä paikkaa, eli tämä tulee jatkumaan.
+[3418.6s - 3422.7s] SPEAKER_19: Nyt pitää saada vaan semmoisen kuntoon, että sillä voi olla ja se on turvallista.
+[3423.2s - 3425.4s] SPEAKER_19: Tämäkään remppa ei tee tästä hyvä tilaa.
+[3426.0s - 3430.0s] SPEAKER_19: Olemassa on paljon lisäsuunnitelmia, jotka maksaa paljon enemmän, miten tässä saadaan oikein hyvä tilaa.
+[3430.0s - 3432.4s] SPEAKER_19: Tämä on vaan semmoinen niin kuin minimi, että se on
+[3432.8s - 3437.0s] SPEAKER_19: että sillä voi olla niin, että siitä ei tule pahoja tilanteita, jos tapahtuu vaikkapa joku onnettomuus.
+[3437.1s - 3453.9s] SPEAKER_19: Eli nyt vaan toivon, että tämä jää kestyttäjään mieleenne, eli kun me tehdään sitten budjettia seuraavaksi vuodeksi, muistatte, että tuli tällainen lisärasiite liikuntapuolelle, joka vaan meidän on maksettava, ja se on valittava tosiasia, mielellään näkisin lisää rahaa.
+[3454.3s - 3454.5s] SPEAKER_19: Kiitos.
+[3454.6s - 3456.0s] SPEAKER_05: Kiitoksia.
+[3456.5s - 3457.7s] SPEAKER_05: Sitten valtuutettu Manni.
+[3462.9s - 3469.5s] SPEAKER_06: Arvoisa puheenjohtaja, hyvät valtuutetut, tässä on aika mielenkiintoisia keskustelun sävyjä ollut tässä asiassa.
+[3470.4s - 3477.3s] SPEAKER_06: Minusta olisi nyt aivan oleellista tietysti, että pysyttäisiin faktoissa ja katsottaisiin, mitä oikeastaan ollaan saamassa tässä ja mitä ei olla saamassa.
+[3478.2s - 3496.7s] SPEAKER_06: Meillä on tilajakoaluntelu 15 vuotta käytössä, joka tuli pakottavaan tarpeeseen, kun ne tilat, jotka aikaisemmin oli käytössä osittain, menivät Celun Oboacademin käyttöön, joista lopetettiin tietoturheilutoiminnat, ja toiset tilat tulivat muuten lähes käyttökelvoittamaan kuntoon, ja silloin Alfa hankittiin tämmöiseen tarkoitukseen.
+[3496.9s - 3507.9s] SPEAKER_06: Alfa oli silloin, oliko se kapiteelin vai oliko se jotenkin valtio- taustana omistus siinä vaiheessa, mutta joka tapauksessa ei ole mitenkään yksityinen omistus, vaan se oli niitä jäämistä, jotka siltä teollisuusalueelta oli,
+[3508.4s - 3515.5s] SPEAKER_06: ja siltä etsettiin ratkaisu, jolla voitaisiin hoitaa useamman pienen urheilutoiminnan osalta tämä tilanne.
+[3516.2s - 3519.0s] SPEAKER_06: Ja löydettiin varsin tyydyttävä ja kohtuuhintainen ratkaisu.
+[3520.0s - 3528.4s] SPEAKER_06: Ja se hinta, mitä on maksettu lämpimästä korkeasta tilasta, on ollut tähän asti 3,2 euroa neljä.
+[3529.4s - 3537.9s] SPEAKER_06: Semmosta tilaa ei kaupunki pysty mistään tarjoamaan, itse ei ole mitään mahdollisuus, se ei semmosta ole, eikä myöskään oikeasta yksityisellä markkinoilla ole saatavissa.
+[3537.9s - 3542.7s] SPEAKER_06: Nämä on erittäin poikkeuksilijatiloja, mitkä tällaiset on, joille niitä rakennetaan valmiiksi.
+[3543.3s - 3546.5s] SPEAKER_06: että kyetään yleensä käyttämään näitä 3,2 euroa 4.
+[3547.1s - 3549.0s] SPEAKER_06: Ei ole kysymys erityistä riistosta.
+[3549.2s - 3551.1s] SPEAKER_06: Kysymys on siitä, että se on ylläpitävä hinta.
+[3552.1s - 3564.6s] SPEAKER_06: Nyt kun on pakko tehdä tiettyjä peruskorjauksia, kun tämä väliaikoisuus on jäänyt pysyväksi, niin siitä seuraa 2,1 euron hinnan nousu, että tehdään ne välttämättömät työtä.
+[3565.4s - 3568.1s] SPEAKER_06: Me olemme 5,3 euron kustannuksessa.
+[3569.0s - 3574.6s] SPEAKER_06: Sitä voidaan sitten keskustella aika pitkään, onko se lämpimästä liikuntatilasta oikea hinta.
+[3574.7s - 3585.7s] SPEAKER_06: Me voidaan arvioida aika montaa kustannusta tässä kaupungissa ja katsoa kiinteistökustannuksia, ja eipä sen halvemmalla oikeastaan mitään tilaa edes tallia saa varmaan tästä kaupungista.
+[3586.4s - 3589.5s] SPEAKER_06: Eli pysytään siinä mielessä rehellisinä tälle asialle.
+[3591.1s - 3593.1s] SPEAKER_06: Se, että mitä lisäkustannuksia voi tulla.
+[3593.5s - 3598.8s] SPEAKER_06: Jos kaupunki täkee kymmenen vuoden vuokrasopimuksen, ei siihen mitään lisäkustannuksia tule.
+[3599.1s - 3603.8s] SPEAKER_06: Se on kymmenen vuoden vuokrasopimus, siitä maksetaan tietty hinta ja sen mukaan toimitaan.
+[3604.3s - 3609.3s] SPEAKER_06: Jos me haluamme tehdä sinne lisää, niin hinnat voi nousta, mutta ei se nouse yksipuolisesti.
+[3609.5s - 3611.3s] SPEAKER_06: Meillä on sopimus päällä.
+[3611.4s - 3612.1s] SPEAKER_06: Sen mukaan eletään.
+[3613.2s - 3619.1s] SPEAKER_06: Mitä tulee tähän budjettikysymykseen, niin se on ihan totta, mitä valtuutettu Andersson sanoi.
+[3619.2s - 3625.8s] SPEAKER_06: Se keskustelu käydään syksyllä, katsotaan, mikä meidän realistiset mahdollisuudet yleensä budjetin puitteissa on mihinkin rahaa laittaa.
+[3626.3s - 3628.5s] SPEAKER_06: Se on aikalailla riippumaton tästä.
+[3629.3s - 3645.0s] SPEAKER_06: Se on sitten toinen juttu, jos esimerkiksi tässä yhteydessä keskusta ja osittain vasemmistoliitto haluaa kertoa näille 8-9 laiharrastajille, että me emme halua heidän harrastamaan enää mitään paitsi kesällä ulkona, niin siitä vaan ja terveiset kyllä menevät perille.
+[3645.0s - 3648.2s] SPEAKER_06: Kiitoksia, oletettu Muukkonen.
+[3650.7s - 3652.7s] SPEAKER_16: Kiitoksia arvoisa puheenjohtaja.
+[3653.4s - 3667.5s] SPEAKER_16: Turun kaupunginvaltuusto on nyt tekemässä tämän umistajan tarjoukseen perustuvaa sopimusta, vuokrasopimusta ja tällä tulemme saamaan sitten ilmeisesti takuut, että nämä tilat saatetaan kuntoon ja ne remontoidaan.
+[3668.9s - 3673.0s] SPEAKER_16: tulevalle sitten sopimuskaudelle tai tälle vuokrakaudelle.
+[3673.1s - 3694.0s] SPEAKER_16: Olisin nyt halunnut tiedustella joko kaupunginjohtajalta tai apulaiskaupunginjohtajalta, että onko nyt tällä hetkellä tiedossa sitten jotain muuta remontin tarvetta tälle tai ilmennyt tälle tilalle, joka mahdollisesti sitten nousee esiin tässä tulevina lähivuosina vai saadaanko tällä summalla, mitä nyt tehdään tämä sopimus ja
+[3694.8s - 3699.0s] SPEAKER_16: ja kaupunki maksaa enemmän vuokran, niin saadaanko niistä oikeasti nyt hyvät toimivat tilat?
+[3699.9s - 3700.6s] SPEAKER_05: Kiitoksia.
+[3701.2s - 3704.7s] SPEAKER_05: Valtuutettu Mäenpää.
+[3704.8s - 3716.8s] SPEAKER_20: Arvoisa puheenjohtaja, sen verran sanon valtuutettu Takkula, että olette varmaan valtuutettu Takkula vielä niin märkäkorvanen poikainen täällä valtuustossa, että te ette tiedä tai ette halua tietää.
+[3717.2s - 3723.9s] SPEAKER_20: Sanoin ihan suorat sanat tästä Harri Lähteenmäestä, joka aikoinaan tuo henkivakuutusyhtiö Apollossa asianajajana
+[3725.3s - 3732.1s] SPEAKER_20: asianajajan ominaisuus toimii, asianaja on julkinen virkaja, asianajajaa myöskin saa arvostella kovin sanoin.
+[3732.6s - 3751.1s] SPEAKER_20: Sitten valtuutettu Miikkolalle sen verran hyvä, että olette pienissä oman tunnontuskissa siitä, kun valtuutettu Kanervan tähän erottamispaperiin peritte nimenne kritisoittin sitä silloin ja ihmettelin, että kuinka tekin itseänne urheilumieheksi tituleeraavana, niin vaaritte
+[3753.1s - 3768.3s] SPEAKER_20: epäselvissä asioissa, niin toisen kovan urheiluvaltuutetun erottamista valtuustossa, että näin vaan valtuutettu Miikko-Lanen, toki te puhutte toista kymmenen loikan kokemuksella, että olette varmaan oikeamassa kuin minä.
+[3769.0s - 3776.1s] SPEAKER_05: Kiitoksia ja toistan se, mitä tuossa äsken sanoi, että toivon todella, että valtuutettu käyttääkö toista kohtaan arvokkaasti.
+[3776.7s - 3778.1s] SPEAKER_05: Sitten valtuutettu Vornanen,
+[3781.8s - 3785.9s] SPEAKER_08: Kiitos puheenjohtaja, tässä on ihan hyviä puheenvuoroja käytettykin.
+[3787.4s - 3797.3s] SPEAKER_08: Se, mitä minä itse haluisin korostaa, on se, että tässä on tosiaan nyt tilaa, joka on käytössä, jossa on käyttäjät ja käyttäjät tarvitsevat sen tilan jatkossakin.
+[3797.8s - 3811.3s] SPEAKER_08: Se, että jostain asiaa nyt palautetaan tai lähdetään suunnittelemaan jotain omaa hanketta, niin kun nyt ollaan nähty toimeen balloiluhallin kanssakin, että se sitten venyy ja venyy, niin ei pysty sanomaan, että kuinka pian me saadaan sitten toimivat ja turvalliset tilat näille käyttäjille.
+[3811.8s - 3820.5s] SPEAKER_08: Tässä ollaan nyt sopimassa kymmenen vuoden sopimuksesta ja siinä aikana on varmaan nyt hyvä mahdollisuus sitten miettiä, että miten tämä tilanne jatkossa korjataan.
+[3820.9s - 3828.2s] SPEAKER_08: Sinä aikana me ollaan toivottavasti saatu myös se Palloiluhalli-hanke eteenpäin ja voidaan sitten tätä liikuntatilaa asiaa paremmin taas kokonaisuutena arvioida.
+[3828.7s - 3840.5s] SPEAKER_08: Näissä olosuhteissa mä oon valmis hyväksymään nyt tämän kymmenen vuoden sopimuksen ja ottaen nyt huomioon, että mikä tämä vuokran nousu on, niin se tarkoittaa kymmenessä vuodessa noin miljoona euroa lisää menoa kaupungille.
+[3840.9s - 3844.9s] SPEAKER_08: eikä se nyt ihan täysin kohtuuttomalta ottaa huomioon nämä olosuhteet.
+[3844.9s - 3845.1s] SPEAKER_08: Kiitos.
+[3845.1s - 3847.3s] SPEAKER_05: Kiitoksia.
+[3847.6s - 3848.6s] SPEAKER_05: Valtuutettu Laivaranta.
+[3850.6s - 3857.4s] SPEAKER_10: Arvoisa puheenjohtaja, valtuutettu Manni toivoi, että täällä pysytään faktoissa.
+[3857.4s - 3870.8s] SPEAKER_10: Fakta on, että keskusta ei ole ajamassa ketään ulos, mutta fakta on myös se, että noin nyt ollaan ajamassa päätöstä, joka lisää kustannuksia 67 prosenttia eli 118 000 vuodessa,
+[3871.2s - 3873.3s] SPEAKER_10: ja väitetään, että ei tarvita lisää rahaa.
+[3873.8s - 3878.4s] SPEAKER_10: Onneksi valtuutettu Andersen sanoi tämän selkeästi, että lisää rahaa tarvitaan.
+[3878.5s - 3886.2s] SPEAKER_10: On se aika kummallista vastuunkantoa, se huon vastuunkantoa, että irrallisena päätetään menoista ja väitää, että ei tarvita lisää rahaa.
+[3886.4s - 3890.5s] SPEAKER_10: Ja sitten kuitenkin talousarvion yhteydessä siinä on pakko myöntää rahaa.
+[3890.6s - 3899.3s] SPEAKER_10: Tulee vaan mieleen, kun kysyn noin, että miten se on esimerkiksi sellaiset tilat, joita meillä on paljon
+[3899.8s - 3904.3s] SPEAKER_10: komioita tiloja ja paljon laitettu rahaa tämän Lokomon.
+[3904.3s - 3906.8s] SPEAKER_10: Ovatko ne todella täydessä käytössä?
+[3906.9s - 3912.4s] SPEAKER_10: Meillähän on tavoitteena, että tavoitteita, kauniita tavoitteita, tilat pitäisi ottaa tehokkaasti käyttöön.
+[3912.6s - 3917.0s] SPEAKER_10: Eikö Lokomon tiloista voitaisiin ottaa tehokkaasti myös tämmöiseen käyttöön?
+[3917.1s - 3918.0s] SPEAKER_10: Tämä on vain kysymys.
+[3918.0s - 3921.3s] SPEAKER_05: Kiitoksia.
+[3921.8s - 3923.8s] SPEAKER_05: Sitten valtuutettu Anderson-Lee.
+[3925.1s - 3926.3s] SPEAKER_12: Kiitos puheenjohtaja.
+[3926.3s - 3933.7s] SPEAKER_12: Tässä on nyt viitattu eri ryhmien näkemyksiin, ihmisten urheiluharrastuksiin ynnä muuta, niin toistan, mistä meidän mielestä tässä on kyse.
+[3933.8s - 3944.5s] SPEAKER_12: Eli siitä, että miten tämä päätöksentekoturussa toimii, miten hyvin asiat on valmisteltu ja minkälaisia tietoja valtuutetuilla ja päätöksentekijöillä on eri vaihtoehdoista.
+[3945.4s - 3956.5s] SPEAKER_12: miten veroeuroja tässä kaupungissa käytetään ja miten voi olla, että joihinkin tarjoituksiin sitten löytyykin yhtäkkiä rahaa, kun ollaan pakon edessä ja miten jotkut päätökset vaan on tällaisia, joilla on pakottava kiire.
+[3957.6s - 3962.5s] SPEAKER_12: Kolmanneksi, kenen ehdoilla ja miten tilapolitiikkaa tässä kaupungissa tehdään.
+[3962.6s - 3972.3s] SPEAKER_12: Ja viimeksi, nämä on kaikki sellaisia asioita, jotta me kaikki tiedetään, että siinä on syytä kiinnittää enemmän poliittista huomiota tässä kaupungissa, kuin mitä aikaisemmin on tehty.
+[3972.7s - 3978.5s] SPEAKER_12: ja suuresti ihmettelee, että esimerkiksi vihreät eivät ole valmiita näkemään tätä näkökulmaa tässä asiassa yhtään.
+[3979.7s - 3980.3s] SPEAKER_05: Kiitoksia.
+[3980.6s - 3981.5s] SPEAKER_05: Valtuutettu Kossila.
+[3984.7s - 3985.4s] SPEAKER_05: Anteeksi, joo.
+[3985.4s - 3990.1s] SPEAKER_05: Otetaan valtuutettu Varnonen ensi tuli replikki, anteeksi.
+[3990.4s - 3991.6s] SPEAKER_08: Joo, kiitos.
+[3992.1s - 4001.4s] SPEAKER_08: Valtuutettu Andersson, kun toisti tätä Vasemmistoliiton linjaa, niin mä myös haluan toistaa edelleen, että tätä ei ole mitenkään kiireellä ajettu, ainakin itse olen ollut tietoinen, että tämä keskustelu tulee
+[4002.0s - 4012.9s] SPEAKER_08: viime syksynä olen sen tiennyt, että se on tulossa, ja nämä olosuhteet tässä nyt on kuitenkin sellaiset, että oikeasti, jos halutaan saada sen jatkumaan siellä se toiminta, niin on hyvä, että nyt tällä tavalla edetään.
+[4013.2s - 4024.4s] SPEAKER_08: Ja se, mitä sitten tulee yleisesti kaupungin tilapolitiikkaan ja muuhun, niin sitä on ihan hyvä sitä keskustelu käydä, mutta se nyt ei tässä yhteydessä ratkea.
+[4028.0s - 4037.7s] SPEAKER_12: vaan sen, mikäli on ollut tiedossa viime syksystä, niin erityisesti silloin ihmettelen, että näistä vaihtoehdoista ja tästä koko asiasta ei ole käyty enempää keskustelua aikaisemmin.
+[4037.7s - 4038.1s] SPEAKER_05: Kiitoksia.
+[4038.1s - 4054.9s] SPEAKER_05: Sitten pyydän, että valtuutettu, replikki puheenvuoroja on pyytäessä hyvin aikaisessa vaiheessa, että kun se tulee tänne näkymin, niin pyydän, että vähän nopeammin pyydetään ne replikit.
+[4055.0s - 4057.6s] SPEAKER_05: Joo, mutta sä painat sieltä sen puheenvuorolistalle.
+[4058.0s - 4059.3s] SPEAKER_05: Valtuutettu Kossila.
+[4074.2s - 4079.4s] SPEAKER_09: Täällä on käytetty ihan hyviäkin puheenvuoroja tämän asian suhteen, ja monenlaista keskustelua on käyty.
+[4080.4s - 4085.1s] SPEAKER_09: Ja kuten on joistaan puheenvuorosta käynyt ilmi, niin ehkä tämä homma saattaa hiukan haiskahtaa.
+[4085.9s - 4095.1s] SPEAKER_09: Mutta toisaalta on taas käytetty puheenvuoroja, jossa on kerrottu, että hinnat ei ehkä kuitenkaan ole niin pahoja kuin on annettu jostain muualta ymmärtää.
+[4097.5s - 4106.4s] SPEAKER_09: Jotkut muutkin aikaisimmat yhteistyökuviot, joita tällainen parkkirin omistajatahon kanssa on tehty aiemmin, ne ovat olleet vähän samanlaisia piirteitä, on hiukka saattanut haiskahtaa.
+[4107.7s - 4112.4s] SPEAKER_09: Täällä kyseiselle omistajalle kaupunki ei tehnyt hyviä dealejä, kuten myynyt halvalla kaupunginomaisuutta.
+[4113.3s - 4122.1s] SPEAKER_09: järkännyt monenlaisia kaavoituskuvioita, ja toisaalta vuokran on vähintään käypään hintaan tiloja takaisinpäin sitten tältä samaiselta omistajalta.
+[4122.7s - 4132.9s] SPEAKER_09: Mainittakoon esimerkkinä edellä mainitusta tämä surullisen kuullista sokan varikko, joka myytiin tontteineen huomattavan edulliseen hintaan kyseiselle taholle.
+[4133.0s - 4141.6s] SPEAKER_09: Esimerkiksi noin 1404 tiilirakennus lähes kaupungin keskustassa tontteineen myytiin EM-kaupassa noin kahdellaisella 50 000 eurolla.
+[4143.0s - 4148.1s] SPEAKER_05: Arvoisa valtuutettu Kossila pyydän, että puhutaan tästä vuokrasupimuksista.
+[4148.6s - 4152.1s] SPEAKER_09: Tulen siihen, että olen alustusta siihen.
+[4152.6s - 4159.3s] SPEAKER_09: Myös esimerkiksi Sepan katun viidessä on tehty järjestelyitä, jotka on päättynyt lehtiinkin.
+[4159.5s - 4164.7s] SPEAKER_09: Tämän kyseinen omistajan taho on saanut siis kerättyä omaan suuntaan kaupungin suosillisella avustuksella.
+[4164.9s - 4170.4s] SPEAKER_09: Eikö siis voisi kohtuudella odottaa, että kaupunki joskus saisi vastapalveluksia?
+[4171.2s - 4172.2s] SPEAKER_09: Nyt tullaan tähän asiaan.
+[4173.9s - 4174.4s] SPEAKER_09: KOO-tahoilta.
+[4174.4s - 4184.1s] SPEAKER_09: Ei edes niin, että vuokran antaja ilman eri rahoitusta kunnostaisi hoimistamassa kiinteistön turvalliseksi harrastajille.
+[4184.2s - 4192.5s] SPEAKER_09: Ennen vanhaan kaupungissa olimme senaatteja, jotka tekivät kaupungille avokätisiä lahjoituksia, joista vielä tänä päivänäkin saamme nauttia.
+[4192.9s - 4198.2s] SPEAKER_09: Nykyisin meillä on ilmeisesti minä-senaatteja, jotka taas osoittavat kaupungilta itselleen lahjoituksia.
+[4200.7s - 4210.6s] SPEAKER_09: Tämä nyt päätettävä asia on tehty taas kerran niin ovelasti, että me valtuutetut olemme puun ja kuoren välissä, jolloin valittavana on huono ja vielä huonompi vaihtoehto.
+[4210.7s - 4216.1s] SPEAKER_09: Se vielä huonompi vaihtoehto olisi jättää nuoret ja vanhemmatkin harrastajat kuten Mikkola ilman tiloja.
+[4217.8s - 4223.0s] SPEAKER_09: Tässäkin asiassa osoitan syyttävää sormeja kohti Kiinteistölaitoksen virkamiesjohtoa.
+[4224.2s - 4234.4s] SPEAKER_09: joka tässä asiassa on mielestäni epäonnistunut ainakin neuvotteluissaan kiinteisten omistajan kanssa, koska valttikortit olisivat olleet meidän kaupungin ja kaupunkilaisten käsissä.
+[4234.5s - 4236.6s] SPEAKER_09: Kaikki, kuka muu sitä tilaa ei olisi vuokrannut.
+[4238.2s - 4243.1s] SPEAKER_09: Pyydänkin niitä, joilla valta on, kiinnittämään erityishuomiota kilan toimintaan jatkossa.
+[4243.7s - 4249.0s] SPEAKER_09: Kyseinen liikelaitos tulee muuten vastaisuudessakin luultavasti kovin kalliksi meille turkulaisille veronmaksajille.
+[4249.0s - 4251.0s] SPEAKER_05: Kiitoksia.
+[4251.5s - 4252.4s] SPEAKER_05: Valtuutettu Laivaranta.
+[4255.2s - 4264.3s] SPEAKER_10: Puheenjohtaja, täällä on monellakin suulla ja viimeksi valtuutettu Vornonen torennut, että tämä asia oli tiedossa jo viime syksynä.
+[4265.0s - 4282.7s] SPEAKER_10: Mä kysyn, mitä avoimuutta tämä on, ettei se edes ollut uudistusohjelmassa siinä, jossa te toimialan edustajat teitte meille suunnitelman kustannuksineen, mitä toimintoja nyt meillä on.
+[4282.8s - 4284.2s] SPEAKER_10: Miksi se ei ollut siellä?
+[4287.5s - 4301.4s] SPEAKER_10: Tämä vakava kysymys, kun puhutaan, että meillä pitäisi edistää avoimuutta ja päätöksistä pitäisi voida ajoissa keskustella, ja nyt sitten sanotaan, että meillä on hyviä tai hyvin huonoja vaihtoehtoja.
+[4303.2s - 4305.3s] SPEAKER_10: Siihen mä en voi uskoa.
+[4305.4s - 4311.0s] SPEAKER_10: Kyllä täytyy olla parempia vaihtoehtoja, kun se on pakko tehdä joko huono- tai hyvin-huono-ratkaisu.
+[4311.5s - 4312.2s] SPEAKER_05: Kiitoksia.
+[4312.5s - 4314.4s] SPEAKER_05: Sitten replikki puheenvuoron altuutettu Vornanen.
+[4316.2s - 4323.0s] SPEAKER_08: Kiitos puheenjohtaja, nyt täytyy kyllä todella ihmetellä, että millä tavalla laivoranta tai laivorannan puolueessa politiikkaa tehdään.
+[4323.1s - 4332.9s] SPEAKER_08: En viime syksynä ole ollut kaupunginvaltuutettu ollenkaan, kun me vihreissä järjestetään budjettiseminaari, jossa kaikkien toimialojen ihmiset kertovat, että mitä siellä omaalla toimialalla on tulossa.
+[4333.0s - 4339.4s] SPEAKER_08: Liikuntapuolella ihmiset sanovat, että tällainen asia on tulossa keskusteluun ja tämä varmasti käsitellään ensi vuoden aikana.
+[4342.6s - 4348.5s] SPEAKER_08: Siltä pohjalta minä olen tästä tiennyt ja ainakin odottanut, että se sieltä jossain vaiheessa tulee ja varmaankin sitten on lautakunta sitä käsittelee.
+[4348.9s - 4356.3s] SPEAKER_08: Ja on lautakunta kuitenkin nyt hyväksynyt sen, että jos ei tule lisää rahaa, niin se voidaan niiden omaa ohjeluvun puitteissa sitten päättää.
+[4356.4s - 4365.7s] SPEAKER_08: Ja kyllä minä tässä uskon ja kunnioitan sinänsä lautakunnan myös arviointikykyä, että silloin tämä asia voisi tämän mukaan ratkaista.
+[4365.7s - 4366.2s] SPEAKER_08: Kiitoksia.
+[4366.5s - 4367.3s] SPEAKER_08: Valtuutettu Laakso.
+[4369.1s - 4369.9s] SPEAKER_03: Joo, heille puheenjohtaja.
+[4371.0s - 4377.8s] SPEAKER_03: Täytyy sanoa näin, kun ensimmäisen kerran ollaan tässä valtuustossa ja puhutaan viime vuoden päätöksistä tai oletetusta päätöksistä.
+[4377.9s - 4379.6s] SPEAKER_03: En tiedä, kummasta on nyt on kysymys ollut.
+[4380.3s - 4385.4s] SPEAKER_03: Mutta kyllähän totustetysti se on, että 15 vuotta on nyt sitten toimittu täällä alfassa.
+[4385.5s - 4392.6s] SPEAKER_03: Silloin kun esim. sopimukset on tehty, niin silloin sitten ei olisi ollut syytä maanrakennuslautakunnassa ja meillä on hyvin tarkka siitä, että on palveluturvallisuudet ja kaikki muut hoidettu.
+[4392.6s - 4394.7s] SPEAKER_03: Siellä on lapsia ja siellä on nuoria ja siellä on kaikkia ollut.
+[4395.0s - 4396.0s] SPEAKER_03: Olen kovin hämmästynyt.
+[4396.4s - 4399.3s] SPEAKER_03: Jos silloin näitä tutkimukset on tehty, mitä siellä täytyy tehdä?
+[4399.7s - 4401.2s] SPEAKER_03: Nyt se tulee yksi, kaksi tässä.
+[4401.8s - 4406.9s] SPEAKER_03: Mäkin meidän liikuntaan toiminen ihmensä tänne kysyin, että onko hän tehnyt päätöksiä tässä taasioissa.
+[4407.4s - 4410.7s] SPEAKER_03: Kyllä keskusteltu, mutta eihän tiedä tehneensä päätöksiä.
+[4410.7s - 4414.2s] SPEAKER_03: Sähän sanoit, että äsken, ettei päätöksiä ole tehty kevältämättä vielä ihan edes kaikki taasioissa.
+[4414.2s - 4417.0s] SPEAKER_03: Tietätään, kun kuunnellaan täällä, mitä täällä puhutaan.
+[4417.1s - 4426.2s] SPEAKER_03: Ja nyt, niin tämä on ihan hämmästyttävä juttu sillä tavalla, että onks meidän virkamme sitten niin osaamattomia, tai onko me poliittisesti sitten olemme vähän typeriä,
+[4426.7s - 4434.2s] SPEAKER_03: mutta jotenkin tuntuu, että olisi voitu sitten tämä asia varmaan tuoda jo aikaisemmin paljon paremmin valmisteltuna, mitä se nyt tuli.
+[4434.2s - 4437.0s] SPEAKER_03: Minusta on erittäin huonosti valmisteltu, ainakin minun kannaltani.
+[4437.0s - 4445.1s] SPEAKER_03: Minä en ymmärtäisi yhtään mitään vielä toistaiseksi puhutaan kuin sen, että kustannuksia tulee, mutta kukaan ei tiedä, mikä on lopullinen kustannus, koska niinhän se aina on rakennettaa mitä tahansa.
+[4445.1s - 4454.1s] SPEAKER_03: Esimerkiksi taidemuseoni se on kolminkertainen hinta, alkuperäisen hintanäärin, ja täskään varmaan samalla tavalla ihan vanha rakennusta, kun ruvetaan saneramaan ja laittamaan, niin jokainen tietää, että kustannuksia lisääntyy tosi paljon.
+[4454.6s - 4455.1s] SPEAKER_03: Ei tämä enempää.
+[4455.2s - 4455.4s] SPEAKER_03: Kiitos.
+[4456.1s - 4456.4s] SPEAKER_05: Kiitoksia.
+[4456.6s - 4458.7s] SPEAKER_05: Sitten repliikki Poivaro, valtuutettu Manni.
+[4460.2s - 4470.1s] SPEAKER_06: Niin tosiaan, valtuutettu Laksunsalta näytti olevan tosiaan, että en ole edes lukenut tätä tekstiä läpi, kun tässä nyt on kertakaikkiaan todettu, mikä on se hinta, mikä tähän tulee vuokrassapimuksessa.
+[4470.1s - 4474.4s] SPEAKER_06: Sillä omistaja laittaa sen kustannuksen, se ei koske enää kaupunkia sen jälkeen.
+[4474.5s - 4476.5s] SPEAKER_06: Se tulee kuntoonpeisitte, pakko tulla.
+[4476.8s - 4478.5s] SPEAKER_06: He on vastuussa siitä.
+[4478.7s - 4481.8s] SPEAKER_06: Ja minkä takia se viipyy näin kauan, että tilapäisiin järjestelyihin tehdään
+[4482.2s - 4489.7s] SPEAKER_06: Lainsäädäntöjä ja säädökset muuttuvat, ne on pakko ottaa matkavälin huomioon, että tulee etensä tilanne, että ei voida enää jatkaa vanhalla tavalla.
+[4490.3s - 4491.8s] SPEAKER_06: Se tulee hyvin monissa paikoissa.
+[4491.8s - 4497.6s] SPEAKER_06: Meillä on vanhain kodassa tullut uusia säädöksiä, on pakko tehdä erilaisia ratkaisuja liikuntatiloissa, monissa palvelutiloissa.
+[4498.1s - 4503.9s] SPEAKER_06: Meistä riippumattomista söistä voi olla, että tulee Brysselistä, tulee eduskunnasta, mutta määräyksiä tulee, ja niitä on pakko noudattua.
+[4503.9s - 4504.1s] SPEAKER_06: Kiitoksia.
+[4504.1s - 4506.9s] SPEAKER_05: Valtuutettu Lampi.
+[4508.7s - 4519.9s] SPEAKER_00: Arvoisa puheenjohtaja, sen verran vaan palaan tuohon Laivorannan eräiseen keskusteen, tai tuossa kun hän keskusteli oli se, että hän kysyi lokomontiloista, eikö niitä voida käyttää.
+[4520.0s - 4527.6s] SPEAKER_00: Tietääkseni me ollaan täällä tehty jo päätös, että kaupunginteatterin toiminta on siirtymässä sinne, joten tuskin siitä ainakaan tällä hetkellä on mitään apua.
+[4527.7s - 4529.8s] SPEAKER_05: Kiitoksia.
+[4529.9s - 4531.3s] SPEAKER_05: Sitten valtuutettu Laivoranta.
+[4533.3s - 4536.1s] SPEAKER_10: Niin arvoisa puheenjohtaja, tämä menee
+[4536.5s - 4557.6s] SPEAKER_10: varmaan vähän jankuttamiseksi, mutta kun vastausta ei tule, että miten uskottava meidän uudistusohjelma oli, jossa ei tästä ainakaan mun tietojeni mukaan ja mun lukukykyyni mukaan löytynyt minkään näköistä mainintaa, niin miten uskottava tämmöinen päätöksenteko on?
+[4557.9s - 4563.6s] SPEAKER_10: Tämä olisi pitänyt tuoda viimeistään siinä yhteydessä esilkun kerran kaikki toimialat esitti, suunnitelmat
+[4564.3s - 4573.4s] SPEAKER_10: ja sanottiin, että nämä on viimeisen päältä käyty läpi meidän toimintasuunnitelmat pitkällä tähtemellä, niin meidän yrittäjänä voi tällaista toimintaa hyväksy alkunkaan.
+[4573.5s - 4576.2s] SPEAKER_10: Tänään mä olen tätä mieltä, huomen tota mieltä.
+[4576.3s - 4578.1s] SPEAKER_10: Tähän on valtuuston pilkkana pitänystä.
+[4578.1s - 4580.0s] SPEAKER_05: Kiitoksia.
+[4580.0s - 4582.2s] SPEAKER_05: Sitten vastauspuheenvuoro Valtuutettu Vornanen.
+[4582.3s - 4584.4s] SPEAKER_08: Kiitos puheenjohtaja.
+[4584.5s - 4592.5s] SPEAKER_08: Enpä olisi arvannut, että mä en täällä kaikista COVIDen-pääriä jotain uudistusohjelmaa puolustamaan, mutta mä en oikein
+[4595.2s - 4600.2s] SPEAKER_08: Siinä uudistusohjelmassa ei ole kuitenkaan kaikkien toimialojen kaikkiatilakustannuksia muutenkaan listattuna.
+[4600.2s - 4603.1s] SPEAKER_08: Ei siellä ole koulupuolen ratkaisuja eikä siellä ole kaikkia muitakaan.
+[4603.5s - 4611.7s] SPEAKER_08: Ne kuitenkin käsittelee niitä sitten itseomanaan ja kyllä tämä on nyt ollut tiedossa, ei siinä ole kaikkia mahdollisia asioita maan ja taivaan väliltä siihen sitten listattuna.
+[4612.1s - 4626.9s] SPEAKER_08: Minun mielestäni laivorannan kyllä siihen vetoaminen on vähän kummallista tässä yhteydessä ja edelleen korostan, että tässä nyt on lähtökohtana se, mitä kaupunginhallitus esittää, että tämä toteutetaan ohjelukun puitteissa, jolloin ei se ole mitenkään lisäämässä kaupungin kustannuksia sitten.
+[4626.9s - 4630.7s] SPEAKER_08: Se on sitten lautakunnan asia, että miten ne ratkaisevat sen sisäistä oman ohjelukunsa sisään.
+[4630.8s - 4632.7s] SPEAKER_05: Kiitoksia.
+[4633.0s - 4635.2s] SPEAKER_05: Sitten mennään puheenvuoron listään.
+[4636.3s - 4649.1s] SPEAKER_18: Arvoisa puheenjohtaja, tässä vuosien mittaan valtuutettu Lajuranta on minusta nimenomaan ollut se, joka on kovin usein penännyt rakenteellisia uudistuksia sen selittämättä, mitä se tarkoittaa.
+[4649.1s - 4662.4s] SPEAKER_18: No minäpä ymmärrän sen tässä tapauksessa sillä tavalla, että me esimerkiksi olemme lyöneet lukkoon talousluvut, tai no niitä tietysti joudutaan tässä tarkastelemaan, toivottavasti ei alaspäin, mutta en ole siitäkään ihan varma, kun tätä talouskehitystä seuraa.
+[4663.0s - 4666.7s] SPEAKER_18: kuuntelin niitä madonlukuja, mitä tämän päivän seminaarissa meille esitettiin.
+[4667.3s - 4692.2s] SPEAKER_18: Mutta että talousluvut nyt on tiukat ja rakenteellinen uudistus tässä kohtaa tarkoittaisi esimerkiksi sitä, että liikuntatoimi kaikessa ammattitaidossaan miettii siellä, että miten he muuttaa omaa toimintaansa, jotta he toiminnan liemmin vaurioitumatta pystyvät sijoittamaan ne lisävuokrarahat tähän, mitkä tähän tarvitaan, ilman että kaupungin kokonaismenot kasvaa.
+[4692.5s - 4696.7s] SPEAKER_18: Se on rakenteellinen uudistus esimerkiksi, ei mikään valtavan suuri.
+[4697.1s - 4699.2s] SPEAKER_18: mutta sillä saadaan paloturvalliset tilat.
+[4699.2s - 4708.7s] SPEAKER_18: En myöskään sanoa, että se on kovin helppoa, mutta sitä se nyt tässä taloustilanteessa tarkoittaa, minun ymmärtääkseni, ja sitä tässä nyt ensisijaisesti pitää yrittää.
+[4709.4s - 4724.3s] SPEAKER_18: Meillä on kovin monta muutakin rahareikää tässä kaupungissa ensi vuodelle, ja mä nyt toivon, että Laivoranta olisi tukemassa näitä rakenteellisia uudistuksia nyt, kun näistä ihan konkreettisesti puhutaan, eikä vaan heitellä asioita ilmaan.
+[4726.1s - 4726.6s] SPEAKER_05: Kiitoksia.
+[4726.6s - 4728.2s] SPEAKER_05: Sitten mennään puheenvuorollista eteenpäin.
+[4728.3s - 4732.6s] SPEAKER_05: Valtuutettu Miikkalo vai Apollos- kaupunginjohtaja Virtanen pitää viimeiseksi.
+[4732.6s - 4733.1s] SPEAKER_05: Anteeksi joo.
+[4733.4s - 4735.2s] SPEAKER_05: Valtuutettu Mäenpää, replikki puheenvuoro.
+[4736.5s - 4752.2s] SPEAKER_20: Arvoisa puheenjohtaja, ihmettelen suuresti valtuutettu Saarlungin puhetta, kun hän vaan edelleen, että liikuntalautakunnan pitää nyt säästää ja liikuntalautakunnan pitää kaapia sieltä sun tältä ja liikuntalautakunnan pitää ja nyt on liikuntalautakunta nyt.
+[4752.5s - 4754.5s] SPEAKER_20: Ei kerta kaikkia, liikuntalautakunta on
+[4754.8s - 4774.0s] SPEAKER_20: Valtuutettu Saaruni, tehnyt jo aivan kaikensa, kyllä me siellä varmaan ollaan, sanoni, eletään säästeliästi, emme tuhlaalla, mutta valtuutettu Saaruni, tuosta 40 miljoona vuotuisesta mamupotista voitaisiin tämmöinen raha lohkaista koska tahansa, eikä tuntusi missään.
+[4774.8s - 4775.5s] SPEAKER_05: Kiitoksia.
+[4775.7s - 4781.4s] SPEAKER_05: Sitten vastauspuoluvaltuutettu Saarunen, ja toivon, että budjettikeskustelu käydään silloin kun on budjettikaika.
+[4781.4s - 4787.9s] SPEAKER_18: Arvoisa puheenjohtaja, minä lupaan ja vannan, että minä joudun budjettikeskustelun yhteydessä käyttämään vastaava puhetta meidän muistakin toimialoista.
+[4788.0s - 4789.5s] SPEAKER_05: Kiitoksia.
+[4790.2s - 4792.1s] SPEAKER_05: Sitten mennään valtuutettu Miikkola.
+[4792.1s - 4800.7s] SPEAKER_14: Arvoisa puheenjohtaja, minä ihmettelen valtuutetun Laivorannan jargonia nyt tästä uudistusohjelmasta.
+[4801.3s - 4827.0s] SPEAKER_14: Hän viime kevään viimeisessä kokouksessa, jossa käsiteltiin tätä kaupunginjohtaja Randelin uudistusesittää, siihen on liitetty se 19 kohdan homma tai tämmöinen toiveiden tynyri, johon kaikki puolueet, muun muassa laivorannan puolue Kepu, olivat laittaneet, ujuttaneet omat toiveissa tämmöiset mität mahdollisesti tehdään, kun ne haluttuu tehdä tämmöisiä riskipäätöksiä, ikäviä päätöksiä, jotka olisivat välttämättä tehtävää.
+[4827.0s - 4829.1s] SPEAKER_14: Hän piti sitä todella hienona hommana.
+[4829.7s - 4830.6s] SPEAKER_14: Kaikki meni hyvin,
+[4831.3s - 4836.6s] SPEAKER_14: Ainoastaan perussuomalaisten valtuustoryhmä ei saanut siihen omaa kohtansa.
+[4836.7s - 4842.2s] SPEAKER_14: Valtuutettu Ville Tavio toi esille, että maahanmuuton kustannukset otettaisiin myöskin syyniin.
+[4842.2s - 4848.1s] SPEAKER_14: Niin tämä fiksu kaupunkistrategian kuuluvat puolueet hylkäsikin tämä hommo.
+[4848.5s - 4850.2s] SPEAKER_14: ja meitä syytettiin jopa strategian rikkomisesta.
+[4850.3s - 4854.8s] SPEAKER_14: Nyt taas laivoranta on kovasti sitä mieltä, että missään tapauksessa tähän listalta hyikunen ei tullut tällaista liikuntapuolen asiaa esille.
+[4854.9s - 4867.8s] SPEAKER_14: Eihän tämä ollut todellakaan kokonaislista, vaan tämä oli se toiveiden tynyri, erikoiset toivomukset, millä haluttiin hämätä äänestäjiä, että kaikki menee hyvin.
+[4867.9s - 4871.9s] SPEAKER_14: Tämä oli se homma.
+[4871.9s - 4872.7s] SPEAKER_14: Muuten haluan sanoa.
+[4873.4s - 4874.1s] SPEAKER_05: Kiitoksia.
+[4874.1s - 4875.7s] SPEAKER_05: Sitten valtuutettu laivoranta.
+[4877.9s - 4894.1s] SPEAKER_10: Arvoisa puheenjohtaja, toivettentynyri kylläkin, mutta niin kauan kuin on jonkinlainen luottamus ja usko, että niitä päätöksiä, joita valtuusto toteutetaan, niin niitä tulee tukea ja kannattaa.
+[4894.1s - 4901.3s] SPEAKER_10: Silloin ainakin minä vilpittömästi uskoin, että oltiin sitä mieltä, mitä päätettiin, että uudistusohjelmatyötä jatketaan, ja näitä
+[4903.7s - 4911.1s] SPEAKER_10: niin sanottuja rakentellisia uuristuksia tehdään, joista valtuutettu Saarnun väitti, että en ole koskaan tuonut mitään esityksiä.
+[4911.1s - 4917.2s] SPEAKER_10: En tuota tässä nyt montaa esille, mutta olen tuonut ennenkin ja tiedän yhden rakentellisenne uuristuksen.
+[4917.3s - 4925.9s] SPEAKER_10: Ei tarvitse kysyä, kun pääluottamus miehilliä ja suorittavalta portailta ja ihmisiltä, niin strateginen sopimusohjaus on yksi sellainen rakentellinen uuristus.
+[4925.9s - 4930.6s] SPEAKER_10: Kun siitä luovutaan, niin säästetään paljon ja annetaan ihmisille työrauha,
+[4931.1s - 4936.1s] SPEAKER_10: ja toteuttava porras pääsee silloin tekemään sitä työtä, mitä niiden kuuluu.
+[4936.2s - 4936.7s] SPEAKER_10: Siinä on yksi.
+[4937.1s - 4950.8s] SPEAKER_10: Toinen on tuota ylimitotetut toimitilat, sehän tuotiin jo esille, myöskin virkamiehen taholta, että ylikin 20 miljoonaa voidaan säästä, jos siirrytään valtiovalan asettamiin toimitilarajoituksiin ja määriin.
+[4951.0s - 4965.9s] SPEAKER_10: Eli kyllä näitä löytyy, sitten löytyy tietysti meidän logistiikas, on paljon kaiken näköistä, ja sitten meillä on varastointi ja muuta, mutta en niitä ole tuonut, ja keskusta on tuonut näitä paljon, ja tulee tuomaan esille näitä mahdollisuuksia, kunhan niihin vain puutuvat.
+[4965.9s - 4968.2s] SPEAKER_05: Kiitoksia.
+[4968.3s - 4969.7s] SPEAKER_05: Sitten vastauspuolella Valtuutettu Vornani.
+[4971.2s - 4972.0s] SPEAKER_08: Kiitos puheenjohtaja.
+[4972.9s - 4989.4s] SPEAKER_08: Täytyy vain vähän ihmetellä, että aika nopeasti kyllä laivorannan usko-uudistusopimuksen ohjelmaan on loppunut tässä on kaksi kuukautta siitä, kun se on hyväksytty ja välissä on ollut kesälomat ja muut, että ei varmaan voi odottaa, että meillä siinä aikana olisi virkamiehet pistänyt sen kokonaisuutena toteutukseen, mutta varmaankin etenee tässä sovitulla tavalla, uskoisin.
+[4989.4s - 4991.3s] SPEAKER_05: Kiitoksia.
+[4991.4s - 4992.5s] SPEAKER_05: Valtuutettu Kanerva.
+[4994.6s - 4997.6s] SPEAKER_21: Arvoisa puheenjohtaja, minulla on vähän vaikea
+[4998.5s - 5007.7s] SPEAKER_21: Ymmärritään keskustelun sisältöä silloin, kun tässä kysymyksessä pääpaino on asian valmistelun arvostelemisessa tai sen aikatauluttamisessa.
+[5008.8s - 5012.0s] SPEAKER_21: Se on kaksi perustavaa, laatuolevaa seikkaa.
+[5012.1s - 5017.8s] SPEAKER_21: Ensimmäinen on se, mitä tuolla käytännössä on mahdollista tehdä ja toteuttaa.
+[5017.8s - 5024.1s] SPEAKER_21: Siit on selvät argumentit löytymässä meidän esityksessä, millä on taustoitettu päätösesitystä.
+[5027.3s - 5034.6s] SPEAKER_21: Liikuntalautakunta ja seuraparlamentti kumpikin edustavat käyttäjäkunnan varmasti hyväksyttyä mielipidettä.
+[5034.7s - 5038.2s] SPEAKER_21: Turku on ehdottomasti Suomen eturivin liikuntakaupunki.
+[5038.2s - 5043.5s] SPEAKER_21: Meidän urheiluseuramme ovat ehdottomasti Suomen eliittiä omilla aloillaan.
+[5044.9s - 5047.8s] SPEAKER_21: Ja on tärkeää, että näin voi olla myöskin jatkossa.
+[5048.0s - 5051.5s] SPEAKER_21: Liikunnallinen profiili Turulle on erittäin tärkeä.
+[5051.6s - 5052.9s] SPEAKER_21: Toinen seikka on se, että
+[5053.5s - 5058.4s] SPEAKER_21: Turun on luonnollisesti pidättävä huolta oman taloutensa terveistä tulevaisuudesta.
+[5058.4s - 5061.7s] SPEAKER_21: Näiden asioiden yhteenitoimisesta on kysymys.
+[5061.8s - 5066.7s] SPEAKER_21: On aihetta katsoa, mitä autakunta ja mitä erityisesti seuraparlammentti tässä on sanonut.
+[5067.6s - 5072.7s] SPEAKER_21: Ja on myöskin lähdettävä siitä, että talous määrittelee toiminnan ehto.
+[5072.7s - 5083.2s] SPEAKER_21: Näiden kahden asian yhteensovittaminen tapahtuu tässä, mutta sen taloudellisen puolen ratkaiseminen tullaan toteuttamaan ensi vuoden budjetin käsittelyn yhteydessä.
+[5084.3s - 5086.6s] SPEAKER_21: Siinä kannattaa ottaa nämä molemmat seikat huomioon.
+[5087.4s - 5094.3s] SPEAKER_21: Asia muuhun tekniseen valmisteluun ja jargoniaan puuttuminen on jollain tavalla huomioon kiinnittämistä sivuseikkoihin.
+[5094.3s - 5108.6s] SPEAKER_21: On tärkeää, että tämä asia saadaan nyt eteenpäin, niin kuin täällä kaupunginjohtaja esittää, niin kuin kaupunginhallitus tuo esille, ja että turkulaisten urheiluseurujen toimintaedellytykset ensi vuoden budjettisissa tullaan myöskin jatkossa turpaamaan.
+[5108.7s - 5109.3s] SPEAKER_05: Kiitoksia.
+[5109.7s - 5110.9s] SPEAKER_05: Sitten valtuutettu Li Andersson.
+[5113.9s - 5115.1s] SPEAKER_12: Kiitos puheenjohtaja.
+[5115.2s - 5117.3s] SPEAKER_12: Mikä on sitten sivuseikka tässä asiassa?
+[5117.5s - 5130.7s] SPEAKER_12: Jos nyt tarkastelee tätä kokonaisuutta, niin voi tietenkin, koko tämä poikkeuspäätöksellä ottaa näitä tiloja käyttöön, silloin kauan sitten näyttää ikään kuin nyt tässä tämän käsittelyn valossa aika oudoltaan.
+[5130.8s - 5139.0s] SPEAKER_12: Oudoltaan myöskin sekin, että remppaa ei ole tehty, mutta mun mielestä vähintäänkin kohtuullista on nyt, kun me ollaan sellaisesta tilanteesta, puhutaan, että me ollaan pakon edestää
+[5139.6s - 5154.0s] SPEAKER_12: tämä makso on tulossa kaupungille ja pahimmillaan tavalla, kun kuitenkin rokottaa seuroja, niin kohtuullista on vain se, että päättäjillä oikeasti on kaikki saatavilla olevat tiedot ja että nämä selvitykset on tehty kunnolla siitä, että olisiko joku muu vaihtoehto ollut mahdollinen.
+[5154.8s - 5169.0s] SPEAKER_12: Sitten on pakko vielä kommentoida lopuksi, että Turku-sopimuksessa mukana olevat ryhmät ovat itse asiassa sitoutuneet siihen sopimukseen ja niihin työskentelytapoihin, mikä siihen liittyy tiedoksi myöskin perussuomalaisten ryhmälle.
+[5169.7s - 5177.8s] SPEAKER_12: Sitten mullekin itse asiassa kuulostaa siltä, että sopimusryhmiin olisi hyvä käydä vähän keskusteluun tästä uudistusohjelmasta, että en olisi itse odottavanut
+[5178.0s - 5185.1s] SPEAKER_12: odottanut kuulevani täällä, että tämä neuvottelutulos on toiveiden tynnyri, jonka tarkoitus on hämätä äänestäjiä.
+[5185.1s - 5187.4s] SPEAKER_12: Tämä oli mullekin ihan uusi tieto.
+[5189.1s - 5189.8s] SPEAKER_05: Kiitoksia.
+[5189.8s - 5191.8s] SPEAKER_05: Sitten Apollos kaupunkijohtaja Virtanen.
+[5191.9s - 5202.0s] SPEAKER_04: Herra puheenjohtaja, tässä keskusteluaikana on esiintynyt muutamia kysymyksiä yhdenmiilleni vastaan.
+[5202.1s - 5207.1s] SPEAKER_04: Valtuutettu lähtemekin tiedosti eli tätä laskentakaavaa, jolla tämä vuokrasumma on
+[5207.7s - 5208.7s] SPEAKER_04: muodostunut.
+[5208.8s - 5217.9s] SPEAKER_04: Käytännössä tämän tyyppisessä ratkaisussa ei ole mitään selkeää yhtenäistä laskentakaavaa, vaan aina on kysymys vuokraneuvotteluista.
+[5218.0s - 5230.1s] SPEAKER_04: Tässä kyseessä tapauksessa kokonaisvuokraaksi on muodostunut peruskorjauksen seurauksena 930 000 jaettuna tuolle 10 vuoden vuokraajalle.
+[5231.0s - 5234.1s] SPEAKER_04: Tämän peruskorjauksen kokonaiskustannus on kuitenkin 1 320 000,
+[5236.6s - 5249.7s] SPEAKER_04: jonka poisto on laskettu noin 15 vuodelle eli käytännössä tässä kyseisessä vuokrasopimuksessa vuokralainen maksaa noin 70 prosenttia peruskorjausten kustannuksista.
+[5253.1s - 5272.5s] SPEAKER_04: Tavoitteena on luonnollisesti vuokranantaja ollut se, että vuokranainen maksaisi 100 prosenttisia tästä kustannuksesta plus vielä sijoitetulle pääomalle koroon, mutta tässä kyseisessä tilanteessa näin ei ole käynyt, joten itse ainakin voin pitää tätä neuvottelutulosta tässä kyseisessä kohteessa varsin hyvään.
+[5273.8s - 5281.4s] SPEAKER_04: Tässä on haettu selvitysvaiheessa ennen kuin tätä ratkaisua on päädytty esittämään erilaisia vaihtoehtoja,
+[5281.7s - 5301.1s] SPEAKER_04: ja käytännössä kaupungissa tämän tyyppisiä tyhjää teollisuustiloja on varsin vähän käytettävissä, ja ne tilat, jotka mahdollisesti olisi muutettavissa tähän käytötarkoituksen näiden raakojen teollisuustilojen keskivuokrahinta on noin 5–7,4 euroa, siis raaka teollisuustila.
+[5302.0s - 5308.8s] SPEAKER_04: Sen jälkeen luonnollisesti tulee tämä sama keskusteluperuskorjauksen jälkeen, mitä tämän raakatilan käyttöönottaminen tulee maksamaan
+[5310.1s - 5314.1s] SPEAKER_04: siinä vaiheessa, kun se on saatettu liikuntakäyttöön.
+[5315.8s - 5321.5s] SPEAKER_04: Nyt tässä kohteessa me puhumme kokonaisvuokrasta, jonka taso on noin 5,4 euroa.
+[5321.5s - 5332.6s] SPEAKER_04: Siihen peruskorjattujen käyttöön otettavien tilojen kokonaisvuokra 5,44 euroa verrattuna tähän mahdolliseen käyttöön
+[5333.8s - 5343.7s] SPEAKER_04: remonttia vaativuja tilojen hintaan on suhteellisen alhainen, että päätöstä voi pitää hintitasollaikin perusteltuna.
+[5343.7s - 5350.2s] SPEAKER_04: Valtuutettu Muukkonen tiedusteli, onko tulossa vielä jotain muita laskuja tarpeita tämän hinnan osalta.
+[5352.6s - 5354.5s] SPEAKER_04: Ei tiedä.
+[5354.5s - 5359.5s] SPEAKER_04: Tässä on kysymys siitä kustannuksesta, johon vuokranantaja on sitoutunut.
+[5359.6s - 5363.3s] SPEAKER_04: Eli tulee tämä peruskorjaus yllätysten vuoksi maksamaan
+[5364.2s - 5370.3s] SPEAKER_04: 1 500 000, 1 300 000 lisäksi vuokranantaja kantaa tämän liiketoimintariskiin.
+[5370.3s - 5377.2s] SPEAKER_04: Kaupunki ei siis kannata tätä riskiä, vaan vuokranantaja kantaa tämän liiketoimintariskiin.
+[5378.0s - 5385.0s] SPEAKER_04: Sen sijaan kysymys siitä, tuleeko seuraavan kymmenen vuoden aikana muita tarpeita, siihen on hyvin vaikea vastata.
+[5385.1s - 5391.5s] SPEAKER_04: Tämä kyseinen peruskorjaus on edellytys näiden tilojen tekniselle käytölle tähän tarpeeseen.
+[5392.0s - 5400.9s] SPEAKER_04: Tämän peruskorjauksen yhteydessä ei tehdä näitä lajia ja niiden toimintaedellytyksiä parantavia rakenteita.
+[5401.0s - 5408.6s] SPEAKER_04: Käytännössä me puhumme poistumistieistä, vähimmäis-ilmastointivaatimuksista ja tämän tyyppisistä kysymyksistä.
+[5408.6s - 5416.5s] SPEAKER_04: Eli siis rakennus lainsäädännön edellyttömistä peruskorjauskysymyksistä, ei toimintioloja parantavista peruskorjauksista.
+[5416.5s - 5418.0s] SPEAKER_04: Mikäli 10 vuoden aikana
+[5418.8s - 5436.4s] SPEAKER_04: nähdään joidenkin lajiliittojen toimesta tai lajien toimesta, seurojen toimesta tai menon oman liikuntatoimen toimesta, että tänne tiloihin olisi toteutettava joitakin lajien toimintaedellytyksiä parantavia korjauksia, niin nämä luonnollisesti tulee nostamaan vuokratasoon.
+[5436.4s - 5444.6s] SPEAKER_04: Muussa tapauksessa tämä kyseinen vuokrasumma, joka on tässä vaiheessa, on kattosumma, johon tulee mukana noista indeksitasan korotuksia.
+[5445.3s - 5447.0s] SPEAKER_05: Kiitoksia.
+[5448.2s - 5449.6s] SPEAKER_05: Sitten valtuutettu Miikkola.
+[5451.1s - 5468.3s] SPEAKER_14: Puhelijohtaja, olisin kysynyt apulaiskaupunginjohtaja Virtaselta, että onko siellä nyt jo tehty jotain hommelilta, koska tuosta esityslistastani päätelleen siellä oli jonkinlainen paine takana, että olisi kiireitä, että onko siellä niin sanotaan lapjoliöty jo, tai kankilöity petoniin.
+[5476.8s - 5478.1s] SPEAKER_05: Apulaiskaupunginjohtaja Virtanen.
+[5478.2s - 5503.7s] SPEAKER_04: Niin puheenjohtaja, käsittääkseni jotain valmistelevia toimenpiteitä tässä peruskorjauksen osalta on tehty, ja vuokralainen tai vuokranantaja on käynnistänyt nämä valmistelevat toimenpiteet omalla riskillään tässä kohteessa sen vuoksi, että on selvä, että mikäli tässä kesän aikaan ei oltaisi tässä kohteessa toimittu, niin syksyllä harrastustoiminta olisi loppunut tässä kyseisessä tilassa.
+[5504.4s - 5505.1s] SPEAKER_05: Kiitoksia.
+[5507.2s - 5508.8s] SPEAKER_05: Keskustelu päättyy.
+[5510.0s - 5515.9s] SPEAKER_05: Keskustelun aikana valtuutettu Mäenpää on tehnyt muutoseudotuksen, jota ei ole kannatettu, joten se raukeaa.
+[5517.5s - 5527.0s] SPEAKER_05: Ja valtuutettu Tavio, valtuutettu Miikko-Lan kannattama on tehnyt ponnen ja ponsiletetään normaalisti valmisteluun kaupunginhallitukselle.
+[5527.0s - 5530.3s] SPEAKER_05: Ja muuten asia on päättyy esitetynä tavalla.
+[5531.7s - 5533.3s] SPEAKER_05: Asia 5 loppuun käsitelty.
+[5535.8s - 5538.4s] SPEAKER_05: Sitten mennään asian numero 6.
+[5538.4s - 5539.9s] SPEAKER_05: Keskustelu alkaa.
+[5542.3s - 5544.9s] SPEAKER_05: Päättyy esitetyllä tavalla.
+[5546.5s - 5547.5s] SPEAKER_05: Asian numero 7.
+[5547.6s - 5549.4s] SPEAKER_05: Keskustelu alkaa.
+[5551.8s - 5554.7s] SPEAKER_05: Päättyy esitetyllä tavalla.
+[5556.7s - 5558.9s] SPEAKER_05: Asian numero 8.
+[5558.9s - 5561.5s] SPEAKER_05: Keskustelu alkaa.
+[5564.6s - 5568.6s] SPEAKER_05: päättyy esitettyllä tavalla hyväksytään.
+[5568.9s - 5580.5s] SPEAKER_05: Ja sitten seuraavat valtuutetut ovat jättänyt aloitteensa, eli valtuutettu Koivosalo on jättänyt yhden kappaleen aloitteita.
+[5581.3s - 5590.3s] SPEAKER_05: Sitten tämmöinen tiedotuskaupunkin valtuusto on päättänyt, että kaaris ehkä 70. olisi seminaari.
+[5592.8s - 5595.5s] SPEAKER_05: Aha, se on 28.
+[5595.6s - 5601.9s] SPEAKER_05: Ja se alkaa nyt sitten kello 12 eli ei kello 14, se tiedoksi.
+[5603.7s - 5616.0s] SPEAKER_05: Ja sitten toivon todella, että jatkossa valtuutetut miettivät sitä, että arvaltaisesti kohdataan toisiamme ja käytetään sanaa valtuutettu, kun käytetään nimeä myös.
+[5616.6s - 5621.0s] SPEAKER_05: Valtuutettu se ja se, kun pyöritään vaikka replikipuheenvuorossa.
+[5622.0s - 5626.1s] SPEAKER_05: Hyvät valtuutettu, kokous on päättynyt ja oikein hyvää kotimatkaa.
+[5657.0s - 5660.2s] SPEAKER_05: Meneekö tuon taksikuvitteen?
+[5660.5s - 5660.7s] SPEAKER_05: Hei hei.
+[5660.7s - 5663.0s] SPEAKER_05: Hanna.
+[5663.0s - 5665.3s] SPEAKER_05: Hanna.
+[5665.3s - 5667.2s] SPEAKER_05: Hanna.
+[5667.2s - 5668.4s] SPEAKER_05: Hanna.
+[5668.5s - 5668.6s] SPEAKER_05: Hanna.
+[5668.6s - 5668.7s] SPEAKER_05: Hanna.
