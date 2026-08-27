@@ -1,19 +1,9 @@
 import os
 import sys
-# ffmpeg-setup: problems while working on a Windows system
-## Set a path to the necessary ffmpeg .dlls
-## Force Windows and Python to discover the necessary .dlls
-## Ensure that the .dlls are loaded
-ffmpeg_bin_path = r"C:/ffmpeg/ffmpeg-9.0.1-full_build-shared/bin" 
-os.environ["PATH"] = ffmpeg_bin_path + os.pathsep + os.environ.get("PATH", "")
-if sys.platform == "win32":
-    try:
-        os.add_dll_directory(ffmpeg_bin_path)
-    except Exception:
-        pass
-
-import whisperx
-import torch
+import librosa
+import soundfile as sf
+import whisper
+import subprocess
 
 def get_parent_directory() -> str:
     """Get the parent directory for handling csv files.
@@ -29,17 +19,21 @@ def get_parent_directory() -> str:
 
 directory = get_parent_directory()
 
-with open(f'{directory}/env/whisperx_token.txt') as f:
-    whisperx_token = f.read()
+video_file_path = f'{directory}/input_videos/annin_lempielain_on_pupu.mp4'
+cmd = f"ffmpeg -i {video_file_path} -vn -acodec pcm_s16le -ar 16000 -ac 1 {video_file_path.replace('.mp4', '.wav')} -y"
+subprocess.run(cmd, shell=True, check=True, capture_output=True)
+
 
 for video_file in os.listdir(f'{directory}/input_videos/'):
+    video_file_path = f'{directory}/input_videos/{video_file}'
     # if the video already has been processed -> do nothing
-    if video_file in [i.replace('.txt', '.mp4') for i in os.listdir(f'{directory}/output_texts/')]:
+    video_file = video_file.replace('.mp4', '')
+    video_file = video_file+'_whisperx' # !!! HARD CODED FOR TESTS!!!
+    if video_file in [i.replace('.txt', '') for i in os.listdir(f'{directory}/output_texts/')]:
         pass
     # if the video has not been processed -> get the transcription of the video
     else:
-        video_file_path = f'{directory}/input_videos/{video_file}'
-        output_file_path = f'{directory}/output_texts/{video_file.replace('.mp4', '.txt')}'
+        output_file_path = f'{directory}/output_texts/{video_file+'.txt'}'
 
         device = "cuda" if torch.cuda.is_available() else "cpu"
         batch_size = 4  
