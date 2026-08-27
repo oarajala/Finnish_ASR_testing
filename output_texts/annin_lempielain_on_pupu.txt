@@ -1,7 +1,0 @@
-[000.6s - 004.2s] SPEAKER_00: Suosikkiläin on pupuu.
-[004.3s - 005.6s] SPEAKER_00: Oot se silittänyt pupua?
-[005.8s - 006.1s] SPEAKER_00: Ei.
-[006.9s - 009.2s] SPEAKER_00: Ootko käynyt katsomassa tuolla niitä pupui?
-[009.6s - 009.7s] SPEAKER_00: Ei.
-[009.7s - 011.9s] SPEAKER_00: Oot se menossa?
-[012.0s - 012.1s] SPEAKER_00: Ei.

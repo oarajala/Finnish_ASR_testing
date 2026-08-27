@@ -29,17 +29,19 @@ def get_parent_directory() -> str:
 
 directory = get_parent_directory()
 
-with open(f'{directory}/env/whisperx_token.txt') as f:
-    whisperx_token = f.read()
+with open(f'{directory}/env/hf_token.txt') as f:
+    hf_token = f.read()
 
 for video_file in os.listdir(f'{directory}/input_videos/'):
+    video_file_path = f'{directory}/input_videos/{video_file}'
     # if the video already has been processed -> do nothing
-    if video_file in [i.replace('.txt', '.mp4') for i in os.listdir(f'{directory}/output_texts/')]:
+    video_file = video_file.replace('.mp4', '')
+    video_file = video_file+'_whisperx' # !!! HARD CODED FOR TESTS!!!
+    if video_file in [i.replace('.txt', '') for i in os.listdir(f'{directory}/output_texts/')]:
         pass
     # if the video has not been processed -> get the transcription of the video
     else:
-        video_file_path = f'{directory}/input_videos/{video_file}'
-        output_file_path = f'{directory}/output_texts/{video_file.replace('.mp4', '.txt')}'
+        output_file_path = f'{directory}/output_texts/{video_file+'.txt'}'
 
         device = "cuda" if torch.cuda.is_available() else "cpu"
         batch_size = 4  
@@ -57,7 +59,7 @@ for video_file in os.listdir(f'{directory}/input_videos/'):
         result = whisperx.align(result["segments"], model_a, metadata, audio, device, return_char_alignments=False)
 
         # Diarise speakers
-        diarize_model = whisperx.diarize.DiarizationPipeline(token=whisperx_token, device=device)
+        diarize_model = whisperx.diarize.DiarizationPipeline(token=hf_token, device=device)
         diarize_segments = diarize_model(audio)
 
         # Merge text transcription with speaker IDs
