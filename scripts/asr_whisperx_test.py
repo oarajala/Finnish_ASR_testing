@@ -29,8 +29,8 @@ def get_parent_directory() -> str:
 
 directory = get_parent_directory()
 
-with open(f'{directory}/env/whisperx_token.txt') as f:
-    whisperx_token = f.read()
+with open(f'{directory}/env/hf_token.txt') as f:
+    hf_token = f.read()
 
 for video_file in os.listdir(f'{directory}/input_videos/'):
     video_file_path = f'{directory}/input_videos/{video_file}'
@@ -59,7 +59,7 @@ for video_file in os.listdir(f'{directory}/input_videos/'):
         result = whisperx.align(result["segments"], model_a, metadata, audio, device, return_char_alignments=False)
 
         # Diarise speakers
-        diarize_model = whisperx.diarize.DiarizationPipeline(token=whisperx_token, device=device)
+        diarize_model = whisperx.diarize.DiarizationPipeline(token=hf_token, device=device)
         diarize_segments = diarize_model(audio)
 
         # Merge text transcription with speaker IDs
