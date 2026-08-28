@@ -50,11 +50,11 @@ for video_file in os.listdir(f'{directory}/input_videos/'):
         cmd = f"ffmpeg -i {video_file_path} -vn -acodec pcm_s16le -ar 16000 -ac 1 {audio_output_path} -y"
         subprocess.run(cmd, shell=True, check=True, capture_output=True)
 
-for audio_file in os.listdir(f'{directory}/input_audios/'):
+for audio_file in [i for i in os.listdir(f'{directory}/input_audios/') if '.wav' in i]:
     audio_file_path = f'{directory}/input_audios/{audio_file}'
     output_file = f'{audio_file.replace('.wav', '')}_Whisper_{WHISPER_MODEL}.csv'
-    output_file_path = f'{directory}/output_files/{output_file}'
-    if output_file in os.listdir(output_file_path):
+    output_file_path = f'{directory}/outputs/{output_file}'
+    if output_file in os.listdir(f'{directory}/outputs/'):
         pass
     else:
         if audio_file == 'turku-1377525844-26.8.2013.wav':
